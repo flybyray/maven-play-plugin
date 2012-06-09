@@ -102,7 +102,11 @@
 
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/router/play-router/1.2/ Router 1.2] - 2011.12.23
 
-[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/rythm/play-rythm/1.0.0-RC5/ Rythm 1.0.0-RC5] - 2012.06.06
+[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/rythm/play-rythm/ Rythm]:
+
+[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/rythm/play-rythm/1.0.0-RC5/ 1.0.0-RC5] - 2012.06.06
+
+[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/rythm/play-rythm/1.0.0-RC6/ 1.0.0-RC6] - 2012.06.09
 
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/sass/play-sass/1.1/ Sass 1.1] - 2011.10.21
 
