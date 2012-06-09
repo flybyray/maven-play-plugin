@@ -24,14 +24,16 @@ under the License.
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.google.code.maven-play-plugin</groupId>
     <artifactId>parent</artifactId>
-    <version>1.0.0-alpha5-SNAPSHOT</version>
+    <version>1</version>
     <packaging>pom</packaging>
 
     <name>Parent</name>
 
     <modules>
-        <module>plugin</module>
+        <module>maven-parent</module>
         <module>play-default-parents</module>
+        <module>play-japid-maven-plugin</module>
+        <module>plugin</module>
         <module>test-projects</module>
     </modules>
 
