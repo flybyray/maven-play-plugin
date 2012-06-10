@@ -38,7 +38,11 @@
 
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/excel/play-excel/1.2.3/ Excel 1.2.3] - 2011.11.23
 
-[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/fastergt/play-fastergt/1.7/ Faster Groovy Templates 1.7] - 2012.05.29
+[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/fastergt/play-fastergt/ Faster Groovy Templates]:
+
+[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/fastergt/play-fastergt/1.7/ 1.7] - 2012.05.29 - *don't use this version, it has dependency bug, use 1.7_1 instead*
+
+[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/fastergt/play-fastergt/1.7_1/ 1.7_1] - 2012.06.10
 
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/fbgraph/play-fbgraph/ FBGraph]:
 
