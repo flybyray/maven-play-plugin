@@ -134,7 +134,11 @@
 
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/siena/play-siena/2.0.7/ Siena 2.0.7] - 2012.04.02
 
-[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/spring/play-spring/1.0.2/ Spring 1.0.2] - 2011.12.07
+[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/spring/play-spring/ Spring]:
+
+[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/spring/play-spring/1.0.2/ 1.0.2] - 2011.12.07
+
+[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/spring/play-spring/1.0.3/ 1.0.3] - 2012.06.10
 
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/springtester/play-springtester/0.1/ SpringTester 0.1] - 2012.02.14
 
