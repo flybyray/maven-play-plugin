@@ -4,11 +4,12 @@
   <artifactId>play-japid-maven-plugin</artifactId>
   <version>0.9.3.4</version>
   <versioning>
-    <latest>0.9.3.4</latest>
-    <release>0.9.3.4</release>
+    <latest>0.9.3.7</latest>
+    <release>0.9.3.7</release>
     <versions>
       <version>0.9.3.4</version>
+      <version>0.9.3.7</version>
     </versions>
-    <lastUpdated>20120516100446</lastUpdated>
+    <lastUpdated>20120613094639</lastUpdated>
   </versioning>
 </metadata>
