@@ -1,0 +1,2 @@
+- should I select only test classes extending Play!'s UnitTest base class?
+
