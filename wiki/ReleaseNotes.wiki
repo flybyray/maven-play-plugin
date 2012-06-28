@@ -58,9 +58,9 @@ a) new modules - templating engines:
 
 b) other new modules:
 
-- AccessLog 1.2
+- AccessLog: 1.2
 
-- BetterLogs 1.0
+- BetterLogs: 1.0
 
 - PDF 0.9
 
@@ -73,6 +73,10 @@ c) new versions of previously mavenized modules:
 - Morphia 1.2.6a - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/morphia/ test projects]
 
 - Spring 1.0.3 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/spring/ test project]
+
+BACKWARD INCOMPATIBLE CHANGES: 
+
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=91 #91] - add module version to directory name when extracting provided-scoped modules
 
 * 1.0.0-beta1 (2012.04.02)
 
