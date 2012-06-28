@@ -122,6 +122,8 @@
 
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/rythm/play-rythm/1.0.0-RC7/ 1.0.0-RC7] - 2012.06.25
 
+[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/rythm/play-rythm/1.0.0-RC8/ 1.0.0-RC8] - 2012.06.28
+
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/sass/play-sass/1.1/ Sass 1.1] - 2011.10.21
 
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/scala/play-scala/0.9.1/ Scala 0.9.1] - 2012.03.21
