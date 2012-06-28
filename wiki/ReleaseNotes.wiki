@@ -1,5 +1,56 @@
 Release notes:
 
+* 1.0.0-beta3-SNAPSHOT
+
+* 1.0.0-beta2 (2012.06.26)
+
+Here is [http://code.google.com/p/maven-play-plugin/issues/list?can=1&q=Milestone=1.0.0-beta2 full list of changes].
+
+The most important ones:
+
+1. Bugs fixed:
+
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=64 #64] - "conf" directory not in classpath 
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=68 #68] - use playTestId when reading configuration in "precompile" mojo with "precompileTests=true"
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=84 #84] - "Duplicate file WEB-INF\web.xml" exception in "play:war" and "play-war-exploded" mojos with custom "war/WEB-INF/web.xml" file in the project 
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=93 #93] - sometimes module's dependencies (jar libraries) copied to application's "lib" directory instead of module's "lib" directory 
+
+2. Enhancements:
+
+a) plugin
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=65 #65] - create dist-exploded mojo
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=77 #77] - add "skip" configuration parameters for "run", "test", "start" and "stop" mojos.
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=78 #78] - add "runWithTests" configuration parameter to "run" mojo (similar to "startWithTests" in "start" mojo).
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=81 #81] - allow play testing to use environment variables when server is started up e.g. -DrunEnv=local 
+
+b) Selenium tests support
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=69 #69] - upgrade Selenium plugin version from 2.2 to 2.3
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=99 #99] - parametrize Selenium server host name and port number for integration testing
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=86 #86] - implement [asser|verify]Selected Selenium command 
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=101 #101] - implement Play! Selenium user extension commands
+
+c) other
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=79 #79] - don't use "expanded" snapshot dependency versions
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=91 #91] - add module version to directory name when extracting provided-scoped modules 
+
+3. Mavenized modules:
+
+a) new modules - templating engines
+- Japid: 0.9.3.4, 0.9.3.7 (additionally created play-japid-maven-plugin, see [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/japid/ test projects] for usage)
+Faster Groovy Templates 1.7 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/fastergt/ test projects]
+- Rythm: 1.0.0-RC5, 1.0.0-RC6, 1.0.0-RC7 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/rythm/ test projects]
+
+b) other new modules
+- AccessLog 1.2
+- BetterLogs 1.0
+- PDF 0.9
+
+c) new versions of previously mavenized modules
+- Deadbolt: 1.5.3, 1.5.4 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/deadbolt/ test projects]
+- Less 0.9.1 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/less/ test projects]
+- Morphia 1.2.6a - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/morphia/ test projects]
+- Spring 1.0.3 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/spring/ test project]
+
 * 1.0.0-beta1 (2012.04.02)
 
 WAR support extended (see new mojos section below)
