@@ -58,9 +58,9 @@ a) new modules - templating engines:
 
 b) other new modules:
 
-- AccessLog: 1.2
+- AccessLog 1.2
 
-- BetterLogs: 1.0
+- BetterLogs 1.0
 
 - PDF 0.9
 
