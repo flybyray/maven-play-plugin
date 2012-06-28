@@ -52,7 +52,7 @@ a) new modules - templating engines:
 
 - Japid: 0.9.3.4, 0.9.3.7 (additionally created play-japid-maven-plugin, see [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/japid/ test projects] for usage)
 
-- Faster Groovy Templates 1.7 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/fastergt/ test projects]
+- Faster Groovy Templates 1.7 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/fastergt/ test project]
 
 - Rythm: 1.0.0-RC5, 1.0.0-RC6, 1.0.0-RC7 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/rythm/ test projects]
 
