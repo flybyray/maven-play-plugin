@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" id="c0" href="./PlayZipMojo.html" title="&lt;TABLE&gt;" alt="" coords="948,305,1033,329"/>
+<area shape="rect" id="c1" href="./PlayWarSupportMojo.html" title="&lt;TABLE&gt;" alt="" coords="16,113,149,137"/>
+<area shape="rect" id="c2" href="./PlayWarMojo.html" title="&lt;TABLE&gt;" alt="" coords="777,401,866,425"/>
+<area shape="rect" id="c3" href="./PlayWarInplaceMojo.html" title="&lt;TABLE&gt;" alt="" coords="910,401,1039,425"/>
+<area shape="rect" id="c4" href="./PlayWarExplodedMojo.html" title="&lt;TABLE&gt;" alt="" coords="1084,401,1225,425"/>
+<area shape="rect" id="c5" href="./PlayTestRunMojo.html" title="&lt;TABLE&gt;" alt="" coords="1980,497,2095,521"/>
+<area shape="rect" id="c6" href="./PlayStopServerMojo.html" title="&lt;TABLE&gt;" alt="" coords="660,209,788,233"/>
+<area shape="rect" id="c7" href="./PlayStopMojo.html" title="&lt;TABLE&gt;" alt="" coords="833,209,927,233"/>
+<area shape="rect" id="c8" href="./PlayStartServerMojo.html" title="&lt;TABLE&gt;" alt="" coords="1644,497,1772,521"/>
+<area shape="rect" id="c9" href="./PlayStartMojo.html" title="&lt;TABLE&gt;" alt="" coords="1817,497,1911,521"/>
+<area shape="rect" id="c10" href="./PlayRunMojo.html" title="&lt;TABLE&gt;" alt="" coords="2140,497,2231,521"/>
+<area shape="rect" id="c11" href="./PlayPrecompileMojo.html" title="&lt;TABLE&gt;" alt="" coords="1591,401,1721,425"/>
+<area shape="rect" id="c12" href="./PlayInitializeMojo.html" title="&lt;TABLE&gt;" alt="" coords="195,113,307,137"/>
+<area shape="rect" id="c13" href="./PlayGenerateSeleniumJunit4SourcesMojo.html" title="&lt;TABLE&gt;" alt="" coords="352,113,603,137"/>
+<area shape="rect" id="c14" href="./PlayDistMojo.html" title="&lt;TABLE&gt;" alt="" coords="1270,401,1359,425"/>
+<area shape="rect" id="c15" href="./PlayDistExplodedMojo.html" title="&lt;TABLE&gt;" alt="" coords="1404,401,1545,425"/>
+<area shape="rect" id="c16" href="./PlayDependenciesMojo.html" title="&lt;TABLE&gt;" alt="" coords="972,209,1121,233"/>
+<area shape="rect" id="c17" href="./PlayCleanMojo.html" title="&lt;TABLE&gt;" alt="" coords="648,113,749,137"/>
+<area shape="rect" id="c18" href="./PidFileDeleter.html" title="&lt;TABLE&gt;" alt="" coords="689,17,786,41"/>
+<area shape="rect" id="c19" href="./ConfigurationParser.html" title="&lt;TABLE&gt;" alt="" coords="830,17,959,41"/>
+<area shape="rect" id="c20" href="./AbstractPlayWarMojo.html" title="&lt;TABLE&gt;" alt="" coords="1079,305,1212,329"/>
+<area shape="rect" id="c21" href="./AbstractPlayStopServerMojo.html" title="&lt;TABLE&gt;" alt="" coords="794,113,966,137"/>
+<area shape="rect" id="c22" href="./AbstractPlayStartServerMojo.html" title="&lt;TABLE&gt;" alt="" coords="1766,401,1938,425"/>
+<area shape="rect" id="c23" href="./AbstractPlayServerMojo.html" title="&lt;TABLE&gt;" alt="" coords="1680,305,1827,329"/>
+<area shape="rect" id="c24" href="./AbstractPlayRunMojo.html" title="&lt;TABLE&gt;" alt="" coords="1982,401,2117,425"/>
+<area shape="rect" id="c25" href="./AbstractPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="532,17,644,41"/>
+<area shape="rect" id="c27" href="./AbstractDependencyProcessingPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="1062,113,1306,137"/>
+<area shape="rect" id="c26" href="./AbstractPlayDistMojo.html" title="&lt;TABLE&gt;" alt="" coords="1257,305,1391,329"/>
+<area shape="rect" id="c28" href="./AbstractArchivingMojo.html" title="&lt;TABLE&gt;" alt="" coords="1166,209,1303,233"/>
+<area shape="rect" id="c29" href="./AbstractAntJavaBasedPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="1548,209,1737,233"/>
+<area shape="rect" id="c30" href="./AbstractAntJavaBasedPlayMojo.JavaRunnable.html" title="&lt;TABLE&gt;" alt="" coords="1003,17,1101,41"/>
+<area shape="rect" id="c31" href="./PlayServerBooter.html" title="&lt;TABLE&gt;" alt="" coords="1145,17,1258,41"/>
+</map>

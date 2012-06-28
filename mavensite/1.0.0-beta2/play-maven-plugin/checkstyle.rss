@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Maven Plugin for Play! Framework - Checkstyle report</title>
+    <link>http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin</link>
+    <description>Maven Plugin for Play! Framework - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2011 - 2012</copyright>
+    <item>
+      <title>File: 30,
+             Errors: 42,
+             Warnings: 78,
+             Infos: 1
+      </title>
+            <link>http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayZipMojo.java">com/google/code/play/PlayZipMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayWarInplaceMojo.java">com/google/code/play/PlayWarInplaceMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.AbstractPlayStopServerMojo.java">com/google/code/play/AbstractPlayStopServerMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayTestRunMojo.java">com/google/code/play/PlayTestRunMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayCleanMojo.java">com/google/code/play/PlayCleanMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.AbstractDependencyProcessingPlayMojo.java">com/google/code/play/AbstractDependencyProcessingPlayMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayGenerateSeleniumJunit4SourcesMojo.java">com/google/code/play/PlayGenerateSeleniumJunit4SourcesMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.AbstractPlayDistMojo.java">com/google/code/play/AbstractPlayDistMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.AbstractPlayRunMojo.java">com/google/code/play/AbstractPlayRunMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayStopMojo.java">com/google/code/play/PlayStopMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.ConfigurationParser.java">com/google/code/play/ConfigurationParser.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayStartMojo.java">com/google/code/play/PlayStartMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayWarSupportMojo.java">com/google/code/play/PlayWarSupportMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayStopServerMojo.java">com/google/code/play/PlayStopServerMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.AbstractPlayStartServerMojo.java">com/google/code/play/AbstractPlayStartServerMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayWarExplodedMojo.java">com/google/code/play/PlayWarExplodedMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayDependenciesMojo.java">com/google/code/play/PlayDependenciesMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayInitializeMojo.java">com/google/code/play/PlayInitializeMojo.java</a>
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.AbstractPlayWarMojo.java">com/google/code/play/AbstractPlayWarMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.AbstractPlayMojo.java">com/google/code/play/AbstractPlayMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  13
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayRunMojo.java">com/google/code/play/PlayRunMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.AbstractPlayServerMojo.java">com/google/code/play/AbstractPlayServerMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayPrecompileMojo.java">com/google/code/play/PlayPrecompileMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayStartServerMojo.java">com/google/code/play/PlayStartServerMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayDistExplodedMojo.java">com/google/code/play/PlayDistExplodedMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PidFileDeleter.java">com/google/code/play/PidFileDeleter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.AbstractAntJavaBasedPlayMojo.java">com/google/code/play/AbstractAntJavaBasedPlayMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayDistMojo.java">com/google/code/play/PlayDistMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.PlayWarMojo.java">com/google/code/play/PlayWarMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta2/play-maven-plugin/checkstyle.html#com.google.code.play.AbstractArchivingMojo.java">com/google/code/play/AbstractArchivingMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
