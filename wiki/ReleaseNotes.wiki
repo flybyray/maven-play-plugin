@@ -2,7 +2,11 @@ Release notes:
 
 * 1.0.0-beta3-SNAPSHOT
 
-no changes yet
+1. Enhancements:
+
+a) plugin
+
+- [http://code.google.com/p/maven-play-plugin/issues/detail?id=104 #104] - Configure inclusion/exclusion filters for "conf" directory resources being copied to "WEB-INF/classes" directory in war mojos ("log4j.properties" for example)
 
 * 1.0.0-beta2 (2012.06.26)
 
