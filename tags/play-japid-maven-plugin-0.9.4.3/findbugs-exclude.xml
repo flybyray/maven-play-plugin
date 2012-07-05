@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FindBugsFilter>
+    <Match>
+        <Class name="com.google.code.play.japid.AbstractPlayJapidMojo" />
+        <Field name="project" />
+        <Or>
+            <Bug pattern="NP_UNWRITTEN_PUBLIC_OR_PROTECTED_FIELD" />
+            <Bug pattern="UWF_UNWRITTEN_PUBLIC_OR_PROTECTED_FIELD" />
+        </Or>
+    </Match>
+</FindBugsFilter>
