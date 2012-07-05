@@ -2,7 +2,11 @@ Release notes:
 
 * 1.0.0-beta4-SNAPSHOT
 
-nothing yet
+1. Mavenized modules:
+
+a) new versions of previously mavenized modules:
+
+- Japid: 0.9.4.2, 0.9.4.3 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/japid/ test projects]
 
 * 1.0.0-beta3 (2012.07.05)
 
