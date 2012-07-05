@@ -4,7 +4,7 @@
   <artifactId>plugin</artifactId>
   <version>1.0.0-alpha3</version>
   <versioning>
-    <release>1.0.0-beta2</release>
+    <release>1.0.0-beta3</release>
     <versions>
       <version>1.0.0-alpha3</version>
       <version>1.0.0-alpha4</version>
@@ -13,7 +13,8 @@
       <version>1.0.0-alpha7</version>
       <version>1.0.0-beta1</version>
       <version>1.0.0-beta2</version>
+      <version>1.0.0-beta3</version>
     </versions>
-    <lastUpdated>20120626182008</lastUpdated>
+    <lastUpdated>20120705074532</lastUpdated>
   </versioning>
 </metadata>
