@@ -68,6 +68,8 @@
 
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/japid/play-japid/0.9.4.2/ 0.9.4.2] - 2012.07.05
 
+[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/japid/play-japid/0.9.4.3/ 0.9.4.3] - 2012.07.05
+
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/less/play-less/ Less]:
 
 - [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/less/play-less/0.3/ 0.3] - 2011.10.18
