@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Maven Plugin for Play! Framework Japid Module - Checkstyle report</title>
+    <link>http://maven-play-plugin.googlecode.com/svn/mavensite/0.9.4.2/play-japid-maven-plugin</link>
+    <description>Maven Plugin for Play! Framework Japid Module - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2011 - 2012</copyright>
+    <item>
+      <title>File: 5,
+             Errors: 0,
+             Warnings: 6,
+             Infos: 0
+      </title>
+            <link>http://maven-play-plugin.googlecode.com/svn/mavensite/0.9.4.2/play-japid-maven-plugin/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/0.9.4.2/play-japid-maven-plugin/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/0.9.4.2/play-japid-maven-plugin/checkstyle.html#com.google.code.play.japid.PlayJapidCleanMojo.java">com/google/code/play/japid/PlayJapidCleanMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/0.9.4.2/play-japid-maven-plugin/checkstyle.html#com.google.code.play.japid.PlayJapidMkdirMojo.java">com/google/code/play/japid/PlayJapidMkdirMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/0.9.4.2/play-japid-maven-plugin/checkstyle.html#com.google.code.play.japid.AbstractPlayJapidMojo.java">com/google/code/play/japid/AbstractPlayJapidMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/0.9.4.2/play-japid-maven-plugin/checkstyle.html#com.google.code.play.japid.PlayJapidRegenMojo.java">com/google/code/play/japid/PlayJapidRegenMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/0.9.4.2/play-japid-maven-plugin/checkstyle.html#com.google.code.play.japid.PlayJapidGenMojo.java">com/google/code/play/japid/PlayJapidGenMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
