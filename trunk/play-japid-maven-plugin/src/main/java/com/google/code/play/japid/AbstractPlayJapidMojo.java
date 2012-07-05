@@ -19,6 +19,7 @@
 
 package com.google.code.play.japid;
 
+import java.io.File;
 import java.io.IOException;
 
 import org.apache.maven.plugin.AbstractMojo;
@@ -56,7 +57,9 @@ public abstract class AbstractPlayJapidMojo
 
         try
         {
-            JapidCommands.main( new String[] { getCommand() } );
+            File baseDir = project.getBasedir();
+
+            JapidCommands.main( new String[] { getCommand(), baseDir.getAbsolutePath() } );
         }
         catch ( IOException e )
         {
