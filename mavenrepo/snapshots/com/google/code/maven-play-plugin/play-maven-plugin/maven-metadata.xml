@@ -4,7 +4,7 @@
   <artifactId>play-maven-plugin</artifactId>
   <version>1.0.0-alpha4-SNAPSHOT</version>
   <versioning>
-    <latest>1.0.0-beta3-SNAPSHOT</latest>
+    <latest>1.0.0-beta4-SNAPSHOT</latest>
     <versions>
       <version>1.0.0-alpha4-SNAPSHOT</version>
       <version>1.0.0-alpha5-SNAPSHOT</version>
@@ -13,7 +13,8 @@
       <version>1.0.0-beta1-SNAPSHOT</version>
       <version>1.0.0-beta2-SNAPSHOT</version>
       <version>1.0.0-beta3-SNAPSHOT</version>
+      <version>1.0.0-beta4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20120702072053</lastUpdated>
+    <lastUpdated>20120705100033</lastUpdated>
   </versioning>
 </metadata>
