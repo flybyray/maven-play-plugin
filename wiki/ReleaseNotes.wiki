@@ -1,12 +1,25 @@
 Release notes:
 
-* 1.0.0-beta3-SNAPSHOT
+* 1.0.0-beta4-SNAPSHOT
+
+* 1.0.0-beta3 (2012.07.05)
 
 1. Enhancements:
 
 a) plugin
 
 - [http://code.google.com/p/maven-play-plugin/issues/detail?id=104 #104] - Configure inclusion/exclusion filters for "conf" directory resources being copied to "WEB-INF/classes" directory in war mojos ("log4j.properties" for example)
+
+2. Mavenized modules:
+
+a) Play! Framework 1.2.5
+
+b) new versions of previously mavenized modules:
+
+- Japid: 0.9.4.1 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/japid/ test projects]
+
+- Rythm: 1.0.0-RC8 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/rythm/ test projects]
+
 
 * 1.0.0-beta2 (2012.06.26)
 
