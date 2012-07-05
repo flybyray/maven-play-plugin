@@ -29,7 +29,7 @@ under the License.
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>play-japid-maven-plugin</artifactId>
-    <version>0.9.4.2</version>
+    <version>0.9.4.3-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>Maven Plugin for Play! Framework Japid Module</name>
@@ -46,9 +46,9 @@ under the License.
     </distributionManagement>
 
     <scm>
-        <connection>scm:svn:http://maven-play-plugin.googlecode.com/svn/tags/play-japid-maven-plugin-0.9.4.2</connection>
-        <developerConnection>scm:svn:https://maven-play-plugin.googlecode.com/svn/tags/play-japid-maven-plugin-0.9.4.2</developerConnection>
-        <url>http://maven-play-plugin.googlecode.com/svn/tags/play-japid-maven-plugin-0.9.4.2</url>
+        <connection>scm:svn:http://maven-play-plugin.googlecode.com/svn/trunk/play-japid-maven-plugin/</connection>
+        <developerConnection>scm:svn:https://maven-play-plugin.googlecode.com/svn/trunk/play-japid-maven-plugin/</developerConnection>
+        <url>http://maven-play-plugin.googlecode.com/svn/trunk/play-japid-maven-plugin/</url>
     </scm>
 
     <prerequisites>
