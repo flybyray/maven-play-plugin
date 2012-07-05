@@ -8,7 +8,7 @@ Simplest project (pom.xml file) should look like:
     <parent>
         <groupId>com.google.code.maven-play-plugin</groupId>
         <artifactId>play-app-default-parent</artifactId>
-        <version>1.0.0-beta2</version>
+        <version>1.0.0-beta3</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
