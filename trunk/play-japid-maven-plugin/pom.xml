@@ -29,7 +29,7 @@ under the License.
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>play-japid-maven-plugin</artifactId>
-    <version>0.9.4.4-SNAPSHOT</version>
+    <version>0.9.5-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>Maven Plugin for Play! Framework Japid Module</name>
@@ -59,7 +59,7 @@ under the License.
         <maven.version>2.2.1</maven.version>
 
         <play.version>1.2.5</play.version>
-        <japid.version>0.9.4.3</japid.version>
+        <japid.version>0.9.5</japid.version>
     </properties>
 
     <dependencies>
