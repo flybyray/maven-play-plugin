@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.code.maven-play-plugin.org.playframework.modules.redis</groupId>
+  <artifactId>play-redis</artifactId>
+  <version>0.3</version>
+  <versioning>
+    <versions>
+      <version>0.3</version>
+    </versions>
+    <lastUpdated>20120913114604</lastUpdated>
+  </versioning>
+</metadata>
