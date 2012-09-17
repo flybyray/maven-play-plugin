@@ -120,6 +120,8 @@
 
 - [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/recaptcha/play-recaptcha/1.3/ 1.3] - 2012.02.14
 
+[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/redis/play-redis/0.3/ Redis 0.3] - 2012.09.17
+
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/router/play-router/1.2/ Router 1.2] - 2011.12.23
 
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/rythm/play-rythm/ Rythm]:
@@ -197,6 +199,8 @@
 [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/postmark/ Postmark]
 
 [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/recaptcha/ Recaptcha]
+
+[https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/redis/ Redis]
 
 [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/rythm/ Rythm]
 
