@@ -148,6 +148,8 @@
 
 - [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/securesocial/play-securesocial/0.2.5/ 0.2.5] - 2012.10.05
 
+- [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/securesocial/play-securesocial/0.2.6/ 0.2.6] - 2012.11.13
+
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/shibboleth/play-shibboleth/ Shibboleth]:
 
 - [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/shibboleth/play-shibboleth/1.1/ 1.1] - 2011.12.21
