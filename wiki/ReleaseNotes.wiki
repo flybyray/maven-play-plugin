@@ -4,15 +4,21 @@ Release notes:
 
 1. Enhancements:
 
-- deployed to [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin Maven central repository]
+- deployed to [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin Maven central repository], no other repository needed
 
 2. Mavenized modules:
 
-a) new versions of previously mavenized modules:
+a) new modules:
 
-- Japid: 0.9.4.2, 0.9.4.3 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/japid/ test projects]
+- Redis: 0.3 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/redis/ test projects]
+
+b) new versions of previously mavenized modules:
+
+- Japid: 0.9.4.2, 0.9.4.3, 0.9.5 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/japid/ test projects]
 
 - Morphia: 1.2.12 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/morphia/ test projects]
+
+- SecureSocial: 0.2.5, 0.2.6 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/securesocial/ test projects]
 
 * 1.0.0-beta3 (2012.07.05)
 
