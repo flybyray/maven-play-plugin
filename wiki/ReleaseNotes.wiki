@@ -1,12 +1,18 @@
 Release notes:
 
-* 1.0.0-beta4-SNAPSHOT
+* 1.0.0-beta4 (2013.01.21)
 
-1. Mavenized modules:
+1. Enhancements:
+
+- deployed to [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin Maven central repository]
+
+2. Mavenized modules:
 
 a) new versions of previously mavenized modules:
 
 - Japid: 0.9.4.2, 0.9.4.3 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/japid/ test projects]
+
+- Morphia: 1.2.12 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/morphia/ test projects]
 
 * 1.0.0-beta3 (2012.07.05)
 
