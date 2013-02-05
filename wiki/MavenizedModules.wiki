@@ -12,7 +12,7 @@
 
 [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/constretto/play-constretto/0.1.1/ Constretto 0.1.1] - 2012.02.14
 
-[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/db/play-db/1.1.1/ DB 1.1.1] - 2011.10.21
+[http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/db/play-db/1.1.1/ DB 1.1.1] - 2011.10.21
 
 [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/deadbolt/play-deadbolt/ Deadbolt]:
 
