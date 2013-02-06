@@ -46,15 +46,15 @@
 
 [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/fastergt/play-fastergt/1.7_1/ 1.7_1] - 2012.06.10
 
-[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/fbgraph/play-fbgraph/ FBGraph]:
+[http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/fbgraph/play-fbgraph/ FBGraph]:
 
 - [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/fbgraph/play-fbgraph/0.3/ 0.3] - 2011.12.07
 
-- [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/fbgraph/play-fbgraph/0.4/ 0.4] - 2012.02.27
+- [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/fbgraph/play-fbgraph/0.4/ 0.4] - 2012.02.27
 
 [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/gae/play-gae/1.6.0/ GAE 1.6.0] - 2012.04.02
 
-[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/gravatar/play-gravatar/1.0.2/ Gravatar 1.0.2] - 2012.02.27
+[http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/gravatar/play-gravatar/1.0.2/ Gravatar 1.0.2] - 2012.02.27
 
 [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/guice/play-guice/1.2/ Guice 1.2] - 2012.02.14
 
@@ -104,11 +104,11 @@
 
 - [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/morphia/play-morphia/1.2.12/ 1.2.12] - 2013.01.28
 
-[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/paginate/play-paginate/ Paginate]:
+[http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/paginate/play-paginate/ Paginate]:
 
 - [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/paginate/play-paginate/0.13/ 0.13] - 2012.02.23
 
-- [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/paginate/play-paginate/0.14/ 0.14] - 2012.02.24
+- [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/paginate/play-paginate/0.14/ 0.14] - 2012.02.24
 
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/pdf/play-pdf/0.9/ PDF 0.9] - 2012.06.04
 
