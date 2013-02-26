@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="c6364" href="../Step.html" title="&lt;TABLE&gt;" alt="" coords="1785,11,1935,61"/>
+<area shape="rect" id="c6402" href="./AbstractSeleniumStep.html" title="&lt;TABLE&gt;" alt="" coords="1789,127,1931,151"/>
+<area shape="rect" id="c6367" href="./WaitForTrueStep.html" title="&lt;TABLE&gt;" alt="" coords="15,223,126,247"/>
+<area shape="rect" id="c6368" href="./WaitForNotEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="171,223,315,247"/>
+<area shape="rect" id="c6369" href="./WaitForFalseStep.html" title="&lt;TABLE&gt;" alt="" coords="360,223,477,247"/>
+<area shape="rect" id="c6370" href="./WaitForEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="523,223,648,247"/>
+<area shape="rect" id="c6372" href="./VerifyTrueStep.html" title="&lt;TABLE&gt;" alt="" coords="693,223,790,247"/>
+<area shape="rect" id="c6374" href="./VerifyNotEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="835,223,965,247"/>
+<area shape="rect" id="c6375" href="./VerifyFalseStep.html" title="&lt;TABLE&gt;" alt="" coords="1011,223,1115,247"/>
+<area shape="rect" id="c6376" href="./VerifyEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="1160,223,1272,247"/>
+<area shape="rect" id="c6381" href="./PlayVerifyTextLikeStep.html" title="&lt;TABLE&gt;" alt="" coords="1317,223,1459,247"/>
+<area shape="rect" id="c6382" href="./PlayVerifyNotEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="1503,223,1657,247"/>
+<area shape="rect" id="c6383" href="./PlayVerifyEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="1701,223,1835,247"/>
+<area shape="rect" id="c6386" href="./PlayAssertTextLikeStep.html" title="&lt;TABLE&gt;" alt="" coords="1880,223,2027,247"/>
+<area shape="rect" id="c6387" href="./PlayAssertNotEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="2072,223,2232,247"/>
+<area shape="rect" id="c6388" href="./PlayAssertEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="2277,223,2419,247"/>
+<area shape="rect" id="c6389" href="./PauseStep.html" title="&lt;TABLE&gt;" alt="" coords="2464,223,2544,247"/>
+<area shape="rect" id="c6392" href="./EchoStep.html" title="&lt;TABLE&gt;" alt="" coords="2589,223,2661,247"/>
+<area shape="rect" id="c6394" href="./CommandStep.html" title="&lt;TABLE&gt;" alt="" coords="2706,223,2809,247"/>
+<area shape="rect" id="c6396" href="./AssertTrueStep.html" title="&lt;TABLE&gt;" alt="" coords="2853,223,2957,247"/>
+<area shape="rect" id="c6398" href="./AssertNotEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="3002,223,3139,247"/>
+<area shape="rect" id="c6399" href="./AssertFalseStep.html" title="&lt;TABLE&gt;" alt="" coords="3184,223,3293,247"/>
+<area shape="rect" id="c6400" href="./AssertEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="3339,223,3456,247"/>
+<area shape="rect" id="c6401" href="./AndWaitStep.html" title="&lt;TABLE&gt;" alt="" coords="3501,223,3590,247"/>
+</map>

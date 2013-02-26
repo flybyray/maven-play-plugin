@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.3" timestamp="2013-02-26T10:04:53.953">
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-maven-plugin\src\main\java\com\google\code\play\AbstractPlayMojo.java">
+<violation beginline="255" endline="259" begincolumn="13" endcolumn="13" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="com.google.code.play" class="AbstractPlayMojo" method="filterWebXml" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="325" endline="329" begincolumn="13" endcolumn="13" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="com.google.code.play" class="AbstractPlayMojo" method="createModuleDirectory" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-maven-plugin\src\main\java\com\google\code\play\AbstractPlayServerMojo.java">
+<violation beginline="210" endline="212" begincolumn="29" endcolumn="29" rule="EmptyIfStmt" ruleset="Basic Rules" package="com.google.code.play" class="AbstractPlayServerMojo" method="prepareAntJavaTask" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyIfStmt" priority="3">
+Avoid empty if statements
+</violation>
+<violation beginline="245" endline="254" begincolumn="25" endcolumn="25" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="com.google.code.play" class="AbstractPlayServerMojo" method="getExcludedArtifacts" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-maven-plugin\src\main\java\com\google\code\play\AbstractPlayStartServerMojo.java">
+<violation beginline="141" endline="144" begincolumn="13" endcolumn="13" rule="EmptyCatchBlock" ruleset="Basic Rules" package="com.google.code.play" class="AbstractPlayStartServerMojo" method="waitForServerStarted" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-maven-plugin\src\main\java\com\google\code\play\AbstractPlayWarMojo.java">
+<violation beginline="324" endline="337" begincolumn="13" endcolumn="13" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="com.google.code.play" class="AbstractPlayWarMojo" method="prepareArchiver" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-maven-plugin\src\main\java\com\google\code\play\PidFileDeleter.java">
+<violation beginline="45" endline="48" begincolumn="17" endcolumn="17" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="com.google.code.play" class="PidFileDeleter" method="run" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-maven-plugin\src\main\java\com\google\code\play\PlayGenerateSeleniumJunit4SourcesMojo.java">
+<violation beginline="112" endline="116" begincolumn="29" endcolumn="29" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="com.google.code.play" class="PlayGenerateSeleniumJunit4SourcesMojo" method="processTestsInDirectory" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-maven-plugin\src\main\java\com\google\code\play\PlayInitializeMojo.java">
+<violation beginline="367" endline="370" begincolumn="13" endcolumn="13" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="com.google.code.play" class="PlayInitializeMojo" method="createDir" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-maven-plugin\src\main\java\com\google\code\play\PlayPrecompileMojo.java">
+<violation beginline="184" endline="186" begincolumn="29" endcolumn="29" rule="EmptyIfStmt" ruleset="Basic Rules" package="com.google.code.play" class="PlayPrecompileMojo" method="internalExecute" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyIfStmt" priority="3">
+Avoid empty if statements
+</violation>
+</file>
+</pmd>

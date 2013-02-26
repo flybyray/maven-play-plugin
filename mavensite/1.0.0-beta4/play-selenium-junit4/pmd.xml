@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.3" timestamp="2013-02-26T10:06:23.937">
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-selenium-junit4\src\main\java\com\google\code\play\selenium\PlaySeleniumTest.java">
+<violation beginline="88" endline="91" begincolumn="13" endcolumn="13" rule="EmptyCatchBlock" ruleset="Basic Rules" package="com.google.code.play.selenium" class="PlaySeleniumTest" method="setUp" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-selenium-junit4\src\main\java\com\google\code\play\selenium\step\WaitForEqualsStep.java">
+<violation beginline="61" endline="63" begincolumn="13" endcolumn="13" rule="EmptyCatchBlock" ruleset="Basic Rules" package="com.google.code.play.selenium.step" class="WaitForEqualsStep" method="doExecute" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-selenium-junit4\src\main\java\com\google\code\play\selenium\step\WaitForFalseStep.java">
+<violation beginline="65" endline="67" begincolumn="13" endcolumn="13" rule="EmptyCatchBlock" ruleset="Basic Rules" package="com.google.code.play.selenium.step" class="WaitForFalseStep" method="doExecute" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-selenium-junit4\src\main\java\com\google\code\play\selenium\step\WaitForNotEqualsStep.java">
+<violation beginline="60" endline="62" begincolumn="13" endcolumn="13" rule="EmptyCatchBlock" ruleset="Basic Rules" package="com.google.code.play.selenium.step" class="WaitForNotEqualsStep" method="doExecute" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta4\play-selenium-junit4\src\main\java\com\google\code\play\selenium\step\WaitForTrueStep.java">
+<violation beginline="65" endline="67" begincolumn="13" endcolumn="13" rule="EmptyCatchBlock" ruleset="Basic Rules" package="com.google.code.play.selenium.step" class="WaitForTrueStep" method="doExecute" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+</pmd>

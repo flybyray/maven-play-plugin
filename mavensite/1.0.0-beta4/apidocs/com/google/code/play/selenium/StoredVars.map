@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="c3279" href="./StoredVars.html" title="&lt;TABLE&gt;" alt="" coords="1033,113,1113,137"/>
+<area shape="rect" id="c3296" href="./step/StoreStep.html" title="&lt;TABLE&gt;" alt="" coords="15,11,187,47"/>
+<area shape="rect" id="c3297" href="./step/PlayVerifyTextLikeStep.html" title="&lt;TABLE&gt;" alt="" coords="231,11,403,47"/>
+<area shape="rect" id="c3298" href="./step/PlayVerifyNotEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="447,11,619,47"/>
+<area shape="rect" id="c3299" href="./step/PlayVerifyEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="663,11,835,47"/>
+<area shape="rect" id="c3302" href="./step/PlayAssertTextLikeStep.html" title="&lt;TABLE&gt;" alt="" coords="879,11,1051,47"/>
+<area shape="rect" id="c3303" href="./step/PlayAssertNotEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="1095,11,1267,47"/>
+<area shape="rect" id="c3304" href="./step/PlayAssertEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="1311,11,1483,47"/>
+<area shape="rect" id="c3305" href="./step/PauseStep.html" title="&lt;TABLE&gt;" alt="" coords="1527,11,1699,47"/>
+<area shape="rect" id="c3308" href="./step/EchoStep.html" title="&lt;TABLE&gt;" alt="" coords="1743,11,1915,47"/>
+<area shape="rect" id="c3319" href="./step/AbstractSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="1959,11,2134,47"/>
+</map>

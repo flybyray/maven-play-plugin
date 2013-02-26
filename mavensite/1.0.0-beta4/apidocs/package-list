@@ -1,0 +1,5 @@
+com.google.code.play
+com.google.code.play.selenium
+com.google.code.play.selenium.parser
+com.google.code.play.selenium.step
+com.google.code.play.surefire.junit4
