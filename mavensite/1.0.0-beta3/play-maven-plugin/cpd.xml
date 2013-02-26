@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+<duplication lines="41" tokens="184">
+<file line="92" path="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta3\play-maven-plugin\src\main\java\com\google\code\play\AbstractPlayServerMojo.java"/>
+<file line="115" path="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta3\play-maven-plugin\src\main\java\com\google\code\play\PlayPrecompileMojo.java"/>
+<codefragment>
+<![CDATA[
+        if ( fork )
+        {
+            javaTask.setDir( baseDir );
+
+            boolean memoryInArgs = false;
+            String jvmArgs = getServerJvmArgs();
+            if ( jvmArgs != null )
+            {
+                jvmArgs = jvmArgs.trim();
+                if ( !jvmArgs.isEmpty() )
+                {
+                    String[] args = jvmArgs.split( " " );
+                    for ( String arg : args )
+                    {
+                        javaTask.createJvmarg().setValue( arg );
+                        getLog().debug( "  Adding jvmarg '" + arg + "'" );
+                        if ( arg.startsWith( "-Xm" ) )
+                        {
+                            memoryInArgs = true;
+                        }
+                    }
+                }
+            }
+            
+            if ( !memoryInArgs )
+            {
+                String jvmMemory = configParser.getProperty( "jvm.memory" );
+                if ( jvmMemory != null )
+                {
+                    jvmMemory = jvmMemory.trim();
+                    if ( !jvmMemory.isEmpty() )
+                    {
+                        String[] args = jvmMemory.split( " " );
+                        for ( String arg : args )
+                        {
+                            javaTask.createJvmarg().setValue( arg );
+                            getLog().debug( "  Adding jvmarg '" + arg + "'" );
+                        }
+                    }
+                }
+            }
+]]>
+</codefragment>
+</duplication>
+<duplication lines="36" tokens="157">
+<file line="184" path="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta3\play-maven-plugin\src\main\java\com\google\code\play\AbstractPlayServerMojo.java"/>
+<file line="158" path="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta3\play-maven-plugin\src\main\java\com\google\code\play\PlayPrecompileMojo.java"/>
+<codefragment>
+<![CDATA[
+                                                             frameworkJarArtifact.getFile().getAbsoluteFile() ) );
+        }
+        else
+        {
+            //find and add all system properties in "serverJvmArgs"
+            String jvmArgs = getServerJvmArgs();
+            if ( jvmArgs != null )
+            {
+                jvmArgs = jvmArgs.trim();
+                if ( !jvmArgs.isEmpty() )
+                {
+                    String[] args = jvmArgs.split( " " );
+                    for ( String arg : args )
+                    {
+                        if ( arg.startsWith( "-D" ) )
+                        {
+                            arg = arg.substring( 2 );
+                            int p = arg.indexOf( '=' );
+                            if ( p >= 0 )
+                            {
+                                String key = arg.substring( 0, p );
+                                String value = arg.substring( p + 1 );
+                                getLog().debug( "  Adding system property '" + arg + "'" );
+                                addSystemProperty( javaTask, key, value );
+                            }
+                            else
+                            {
+                                // TODO - throw an exception
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        addSystemProperty( javaTask, "play.home", playHome.getAbsolutePath() );
+        addSystemProperty( javaTask, "play.id", ( playId != null ? playId : "" ) );
+]]>
+</codefragment>
+</duplication>
+<duplication lines="27" tokens="129">
+<file line="137" path="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta3\play-maven-plugin\src\main\java\com\google\code\play\AbstractPlayDistMojo.java"/>
+<file line="211" path="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta3\play-maven-plugin\src\main\java\com\google\code\play\AbstractPlayWarMojo.java"/>
+<codefragment>
+<![CDATA[
+            List<String> excl = Arrays.asList( distDependencyExcludes.split( "," ) );
+            PatternExcludesArtifactFilter excludeFilter =
+                new PatternExcludesArtifactFilter( excl, true/* actTransitively */ );
+
+            dependencyFilter.add( excludeFilter );
+        }
+
+        Set<Artifact> filteredArtifacts = new HashSet<Artifact>(); // TODO-rename to filteredClassPathArtifacts
+        for ( Iterator<?> iter = projectArtifacts.iterator(); iter.hasNext(); )
+        {
+            Artifact artifact = (Artifact) iter.next();
+            if ( artifact.getArtifactHandler().isAddedToClasspath() && !excludedArtifacts.contains( artifact ) )
+            {
+                // TODO-add checkPotentialReactorProblem( artifact );
+                if ( dependencyFilter.include( artifact ) )
+                {
+                    filteredArtifacts.add( artifact );
+                }
+                else
+                {
+                    getLog().debug( artifact.toString() + " excluded" );
+                }
+            }
+        }
+
+        // framework
+        Artifact frameworkZipArtifact = findFrameworkArtifact( false );
+]]>
+</codefragment>
+</duplication>
+<duplication lines="14" tokens="125">
+<file line="284" path="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta3\play-maven-plugin\src\main\java\com\google\code\play\PlayDependenciesMojo.java"/>
+<file line="374" path="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta3\play-maven-plugin\src\main\java\com\google\code\play\PlayInitializeMojo.java"/>
+<codefragment>
+<![CDATA[
+    private void scalaHack( File scalaModuleDirectory, Set<Artifact> filteredArtifacts ) throws IOException
+    {
+        Set<?> projectArtifacts = project.getArtifacts();
+        for ( Iterator<?> iter = projectArtifacts.iterator(); iter.hasNext(); )
+        {
+            Artifact artifact = (Artifact) iter.next();
+            if ( "org.scala-lang".equals( artifact.getGroupId() )
+                && ( "scala-compiler".equals( artifact.getArtifactId() ) || "scala-library".equals( artifact.getArtifactId() ) )
+                && "jar".equals( artifact.getType() ) )
+            {
+                File jarFile = artifact.getFile();
+                FileUtils.copyFileIfModified( jarFile,
+                                              new File( scalaModuleDirectory, "lib/" + artifact.getArtifactId()
+                                                  + ".jar" ) );
+]]>
+</codefragment>
+</duplication>
+<duplication lines="24" tokens="124">
+<file line="137" path="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta3\play-maven-plugin\src\main\java\com\google\code\play\AbstractPlayDistMojo.java"/>
+<file line="211" path="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta3\play-maven-plugin\src\main\java\com\google\code\play\AbstractPlayWarMojo.java"/>
+<file line="162" path="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta3\play-maven-plugin\src\main\java\com\google\code\play\PlayZipMojo.java"/>
+<codefragment>
+<![CDATA[
+            List<String> excl = Arrays.asList( distDependencyExcludes.split( "," ) );
+            PatternExcludesArtifactFilter excludeFilter =
+                new PatternExcludesArtifactFilter( excl, true/* actTransitively */ );
+
+            dependencyFilter.add( excludeFilter );
+        }
+
+        Set<Artifact> filteredArtifacts = new HashSet<Artifact>(); // TODO-rename to filteredClassPathArtifacts
+        for ( Iterator<?> iter = projectArtifacts.iterator(); iter.hasNext(); )
+        {
+            Artifact artifact = (Artifact) iter.next();
+            if ( artifact.getArtifactHandler().isAddedToClasspath() && !excludedArtifacts.contains( artifact ) )
+            {
+                // TODO-add checkPotentialReactorProblem( artifact );
+                if ( dependencyFilter.include( artifact ) )
+                {
+                    filteredArtifacts.add( artifact );
+                }
+                else
+                {
+                    getLog().debug( artifact.toString() + " excluded" );
+                }
+            }
+        }
+]]>
+</codefragment>
+</duplication>
+</pmd-cpd>

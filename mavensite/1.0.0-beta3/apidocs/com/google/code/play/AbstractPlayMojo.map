@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="c2588" href="./PlayWarSupportMojo.html" title="&lt;TABLE&gt;" alt="" coords="16,209,149,233"/>
+<area shape="rect" id="c2599" href="./PlayInitializeMojo.html" title="&lt;TABLE&gt;" alt="" coords="195,209,307,233"/>
+<area shape="rect" id="c2600" href="./PlayGenerateSeleniumJunit4SourcesMojo.html" title="&lt;TABLE&gt;" alt="" coords="352,209,603,233"/>
+<area shape="rect" id="c2604" href="./PlayCleanMojo.html" title="&lt;TABLE&gt;" alt="" coords="648,209,749,233"/>
+<area shape="rect" id="c2608" href="./AbstractPlayStopServerMojo.html" title="&lt;TABLE&gt;" alt="" coords="794,209,966,233"/>
+<area shape="rect" id="c2612" href="./AbstractPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="733,113,845,137"/>
+<area shape="rect" id="c2614" href="./AbstractDependencyProcessingPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="1010,209,1254,233"/>
+</map>

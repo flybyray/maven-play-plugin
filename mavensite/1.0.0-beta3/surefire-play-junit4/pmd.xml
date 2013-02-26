@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.3" timestamp="2013-02-26T11:45:52.500">
+<file name="E:\scm\googlecode.svn\maven-play-plugin\tags\plugin-1.0.0-beta3\surefire-play-junit4\src\main\java\com\google\code\play\surefire\junit4\PlayDirectoryScanner.java">
+<violation beginline="114" endline="114" begincolumn="69" endcolumn="109" rule="AvoidThreadGroup" ruleset="Basic Rules" package="com.google.code.play.surefire.junit4" class="PlayDirectoryScanner" method="collectTests" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#AvoidThreadGroup" priority="3">
+Avoid using java.lang.ThreadGroup; it is not thread safe
+</violation>
+</file>
+</pmd>
