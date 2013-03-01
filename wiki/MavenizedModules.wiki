@@ -86,7 +86,7 @@
 
 - [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/markdown/play-markdown/1.7/ 1.7] - 2012.02.27
 
-[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/mockito/play-mockito/0.1/ Mockito 0.1] - 2012.02.22
+[http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/mockito/play-mockito/0.1/ Mockito 0.1] - 2012.02.22
 
 [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/morphia/play-morphia/ Morphia]:
 
