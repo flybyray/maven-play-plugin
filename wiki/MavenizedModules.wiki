@@ -8,9 +8,9 @@
 
 [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/cobertura/play-cobertura/ Cobertura]:
 
-[http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/cobertura/play-cobertura/2.4/ 2.4] - 2012.02.23
+- [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/cobertura/play-cobertura/2.4/ 2.4] - 2012.02.23
 
-[http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/cobertura/play-cobertura/2.4-jdk15/ 2.4-jdk15] - 2013.02.25 - version 2.4 compatible with Java 1.5
+- [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/cobertura/play-cobertura/2.4-jdk15/ 2.4-jdk15] - 2013.02.25 - version 2.4 compatible with Java 1.5
 
 [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/coffee/play-coffee/1.0/ Coffee 1.0] - 2011.12.11
 
