@@ -162,7 +162,7 @@
 
 - [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/shibboleth/play-shibboleth/1.2/ 1.2] - 2012.02.27
 
-[https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/siena/play-siena/2.0.7/ Siena 2.0.7] - 2012.04.02
+[http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/siena/play-siena/2.0.7/ Siena 2.0.7] - 2012.04.02
 
 [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/spring/play-spring/ Spring]:
 
