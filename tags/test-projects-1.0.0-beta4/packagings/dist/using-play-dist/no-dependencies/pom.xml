@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Copyright 2010-2013 Grzegorz Slowikowski
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <parent>
+        <groupId>com.google.code.maven-play-plugin</groupId>
+        <artifactId>play-app-default-parent</artifactId>
+        <version>1.0.0-beta4</version>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.google.code.maven-play-plugin.test-projects.packagings.dist.using-play-dist</groupId>
+    <artifactId>no-dependencies</artifactId>
+    <version>1.0.0-beta4</version>
+    <packaging>play</packaging>
+
+    <name>Play! Framework Maven Test Projects : Packagings : Dist : Using play:dist : No Dependencies</name>
+    <description>Play! Framework Maven Test Projects : Packagings : Dist : Using play:dist : No Dependencies</description>
+    <url>https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/packagings/dist/using-play-dist/no-dependencies/</url>
+
+    <scm>
+        <connection>scm:svn:http://maven-play-plugin.googlecode.com/svn/tags/test-projects-1.0.0-beta4/packagings/dist/using-play-dist/no-dependencies</connection>
+        <developerConnection>scm:svn:https://maven-play-plugin.googlecode.com/svn/tags/test-projects-1.0.0-beta4/packagings/dist/using-play-dist/no-dependencies</developerConnection>
+        <url>http://maven-play-plugin.googlecode.com/svn/tags/test-projects-1.0.0-beta4/packagings/dist/using-play-dist/no-dependencies</url>
+    </scm>
+
+    <properties>
+        <play.seleniumSkip>true</play.seleniumSkip>
+    </properties>
+
+    <dependencies>
+        <!-- not needed, only for packaging testing -->
+        <dependency>
+            <groupId>net.sf.opencsv</groupId>
+            <artifactId>opencsv</artifactId>
+            <version>2.1</version>
+        </dependency>
+
+        <!-- not needed, only for packaging testing -->
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>3.6</version>
+            <scope>runtime</scope>
+            <exclusions>
+                <exclusion>
+                    <groupId>commons-logging</groupId>
+                    <artifactId>commons-logging</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>log4j</groupId>
+                    <artifactId>log4j</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.google.code.maven-play-plugin</groupId>
+                <artifactId>play-maven-plugin</artifactId>
+                <extensions>true</extensions>
+            </plugin>
+        </plugins>
+    </build>
+
+    <profiles>
+        <profile>
+            <id>dist</id>
+
+            <dependencies>
+                <dependency>
+                    <groupId>com.google.code.maven-play-plugin.org.playframework</groupId>
+                    <artifactId>play</artifactId>
+                    <version>${play.version}</version>
+                    <classifier>framework</classifier>
+                    <type>zip</type>
+                    <scope>provided</scope>
+                </dependency>
+
+                <dependency>
+                    <groupId>com.google.code.maven-play-plugin.org.playframework.modules.testrunner</groupId>
+                    <artifactId>play-testrunner</artifactId>
+                    <version>${play.version}</version>
+                    <classifier>module</classifier>
+                    <type>zip</type>
+                    <scope>provided</scope>
+                </dependency>
+            </dependencies>
+
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>com.google.code.maven-play-plugin</groupId>
+                        <artifactId>play-maven-plugin</artifactId>
+                        <executions>
+                            <execution>
+                                <id>make-dist</id>
+                                <phase>package</phase>
+                                <goals>
+                                    <goal>dist</goal>
+                                </goals>
+                            </execution>
+                        </executions>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
+
+</project>
