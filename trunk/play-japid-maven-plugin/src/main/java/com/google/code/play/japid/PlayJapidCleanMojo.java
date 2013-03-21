@@ -16,12 +16,15 @@
 
 package com.google.code.play.japid;
 
+import org.apache.maven.plugins.annotations.Mojo;
+
 /**
- * Deleting Java source files generated from Japid templates
+ * Deleting Java source files generated from Japid templates.
  * 
  * @author <a href="mailto:gslowikowski@gmail.com">Grzegorz Slowikowski</a>
- * @goal clean
+ * @since 0.9.3.4
  */
+@Mojo( name = "clean" )
 public class PlayJapidCleanMojo
     extends AbstractPlayJapidMojo
 {

@@ -21,7 +21,7 @@ limitations under the License.
     <parent>
         <groupId>com.google.code.maven-play-plugin</groupId>
         <artifactId>plugin</artifactId>
-        <version>1.0.0-beta4</version>
+        <version>1.0.0-beta5-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
@@ -54,6 +54,7 @@ limitations under the License.
 
     <properties>
         <maven.version>2.2.1</maven.version>
+        <maven-plugin-plugin.version>3.2</maven-plugin-plugin.version>
 
         <play.version>1.2.5</play.version>
         <japid.version>0.9.5</japid.version>
@@ -284,6 +285,13 @@ limitations under the License.
             <artifactId>maven-project</artifactId>
             <version>${maven.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.apache.maven.plugin-tools</groupId>
+            <artifactId>maven-plugin-annotations</artifactId>
+            <version>${maven-plugin-plugin.version}</version>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
 
     <build>
@@ -297,7 +305,7 @@ limitations under the License.
                             <tagletArtifact>
                                 <groupId>org.apache.maven.plugin-tools</groupId>
                                 <artifactId>maven-plugin-tools-javadoc</artifactId>
-                                <version>3.1</version>
+                                <version>${maven-plugin-plugin.version}</version>
                             </tagletArtifact>
                             <tagletArtifact>
                                 <groupId>org.codehaus.plexus</groupId>
@@ -306,6 +314,30 @@ limitations under the License.
                             </tagletArtifact>
                         </tagletArtifacts>
                     </configuration>
+                </plugin>
+
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-plugin-plugin</artifactId>
+                    <version>${maven-plugin-plugin.version}</version>
+                    <configuration>
+                        <skipErrorNoDescriptorsFound>true</skipErrorNoDescriptorsFound>
+                    </configuration>
+                    <executions>
+                        <execution>
+                            <id>mojo-descriptor</id>
+                            <phase>process-classes</phase>
+                            <goals>
+                                <goal>descriptor</goal>
+                            </goals>
+                        </execution>
+                        <execution>
+                            <id>help-goal</id>
+                            <goals>
+                                <goal>helpmojo</goal>
+                            </goals>
+                        </execution>
+                    </executions>
                 </plugin>
             </plugins>
         </pluginManagement>
@@ -316,7 +348,7 @@ limitations under the License.
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-plugin-plugin</artifactId>
-                <version>3.1</version>
+                <version>${maven-plugin-plugin.version}</version>
                 <configuration>
                     <useJava5>true</useJava5>
                 </configuration>
@@ -338,7 +370,7 @@ limitations under the License.
                                 <tagletArtifact>
                                     <groupId>org.apache.maven.plugin-tools</groupId>
                                     <artifactId>maven-plugin-tools-javadoc</artifactId>
-                                    <version>3.1</version>
+                                    <version>${maven-plugin-plugin.version}</version>
                                 </tagletArtifact>
                                 <tagletArtifact>
                                     <groupId>org.codehaus.plexus</groupId>

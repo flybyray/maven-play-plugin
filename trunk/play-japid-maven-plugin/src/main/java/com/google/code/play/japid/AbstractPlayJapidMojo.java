@@ -27,7 +27,7 @@ import org.apache.maven.project.MavenProject;
 import cn.bran.play.JapidCommands;
 
 /**
- * Abstract base class for Play! Japid Module Mojos.
+ * Abstract base class for Play&#33; Japid Module mojos.
  * 
  * @author <a href="mailto:gslowikowski@gmail.com">Grzegorz Slowikowski</a>
  */

@@ -16,12 +16,15 @@
 
 package com.google.code.play.japid;
 
+import org.apache.maven.plugins.annotations.Mojo;
+
 /**
- * ...
+ * Basic layout (empty) directories generation.
  * 
  * @author <a href="mailto:gslowikowski@gmail.com">Grzegorz Slowikowski</a>
- * @goal mkdir
+ * @since 0.9.3.4
  */
+@Mojo( name = "mkdir" )
 public class PlayJapidMkdirMojo
     extends AbstractPlayJapidMojo
 {

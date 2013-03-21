@@ -16,12 +16,15 @@
 
 package com.google.code.play.japid;
 
+import org.apache.maven.plugins.annotations.Mojo;
+
 /**
- * Java source files from Japid templates regeneration (cleaning + generation)
+ * Java source files from Japid templates regeneration (cleaning + generation).
  * 
  * @author <a href="mailto:gslowikowski@gmail.com">Grzegorz Slowikowski</a>
- * @goal regen
+ * @since 0.9.3.4
  */
+@Mojo( name = "regen" )
 public class PlayJapidRegenMojo
     extends AbstractPlayJapidMojo
 {
