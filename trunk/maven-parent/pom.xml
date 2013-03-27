@@ -27,7 +27,7 @@ limitations under the License.
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.google.code.maven-play-plugin</groupId>
     <artifactId>maven-parent</artifactId>
-    <version>1.0.0-beta5</version>
+    <version>1.0.0-beta6-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Maven Parent</name>
@@ -36,9 +36,9 @@ limitations under the License.
     <url>https://maven-play-plugin.googlecode.com/svn/mavensite/${project.version}/</url>
 
     <scm>
-        <connection>scm:svn:http://maven-play-plugin.googlecode.com/svn/tags/maven-parent-1.0.0-beta5</connection>
-        <developerConnection>scm:svn:https://maven-play-plugin.googlecode.com/svn/tags/maven-parent-1.0.0-beta5</developerConnection>
-        <url>http://maven-play-plugin.googlecode.com/svn/tags/maven-parent-1.0.0-beta5</url>
+        <connection>scm:svn:http://maven-play-plugin.googlecode.com/svn/trunk/maven-parent/</connection>
+        <developerConnection>scm:svn:https://maven-play-plugin.googlecode.com/svn/trunk/maven-parent/</developerConnection>
+        <url>http://maven-play-plugin.googlecode.com/svn/trunk/maven-parent/</url>
     </scm>
 
     <issueManagement>
