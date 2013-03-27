@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Copyright 2010-2013 Grzegorz Slowikowski
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.google.code.maven-play-plugin</groupId>
+    <artifactId>play-app-default-parent</artifactId>
+    <version>1.0.0-beta5</version>
+    <packaging>pom</packaging>
+
+    <name>Play! Application Default Configuration Parent</name>
+    <description>Play! Application Default Configuration Parent</description>
+    <url>fill_in_your_project</url>
+
+    <scm>
+        <url>fill_in_your_project/tags/play-default-parents-1.0.0-beta5</url>
+    </scm>
+
+    <developers>
+        <developer>
+            <id>fill_in_your_project</id>
+            <name>Fill in your project</name>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>fill_in_your_project</name>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <properties>
+        <play.plugin.version>1.0.0-beta5</play.plugin.version>
+        <play.testId>test</play.testId>
+        <play.version>1.2.5</play.version>
+        <selenium.server.version>2.31.0</selenium.server.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.google.code.maven-play-plugin</groupId>
+            <artifactId>play-selenium-junit4</artifactId>
+            <version>${play.plugin.version}</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.code.maven-play-plugin.org.playframework</groupId>
+            <artifactId>play</artifactId>
+            <version>${play.version}</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.code.maven-play-plugin.org.playframework</groupId>
+            <artifactId>play</artifactId>
+            <version>${play.version}</version>
+            <classifier>framework-min</classifier>
+            <type>zip</type>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.code.maven-play-plugin.org.playframework.modules.docviewer</groupId>
+            <artifactId>play-docviewer</artifactId>
+            <version>${play.version}</version>
+            <classifier>module-min</classifier>
+            <type>zip</type>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.code.maven-play-plugin.org.playframework.modules.testrunner</groupId>
+            <artifactId>play-testrunner</artifactId>
+            <version>${play.version}</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.code.maven-play-plugin.org.playframework.modules.testrunner</groupId>
+            <artifactId>play-testrunner</artifactId>
+            <version>${play.version}</version>
+            <classifier>module-min</classifier>
+            <type>zip</type>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>com.google.code.maven-play-plugin</groupId>
+                    <artifactId>play-maven-plugin</artifactId>
+                    <version>${play.plugin.version}</version>
+                </plugin>
+
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-clean-plugin</artifactId>
+                    <version>2.5</version>
+                </plugin>
+
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <version>2.5.1</version>
+                    <configuration>
+                        <source>1.5</source>
+                        <target>1.5</target>
+                    </configuration>
+                </plugin>
+
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-jar-plugin</artifactId>
+                    <version>2.4</version>
+                </plugin>
+
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-surefire-plugin</artifactId>
+                    <version>2.14</version>
+                    <configuration>
+                        <excludes>
+                            <exclude>**/*SeleniumTest.java</exclude>
+                        </excludes>
+                        <properties>
+                          <property>
+                            <name>play.testId</name>
+                            <value>${play.testId}</value>
+                          </property>
+                        </properties>
+                        <runOrder>alphabetical</runOrder>
+                    </configuration>
+                    <dependencies>
+                        <dependency>
+                            <groupId>com.google.code.maven-play-plugin</groupId>
+                            <artifactId>surefire-play-junit4</artifactId>
+                            <version>${play.plugin.version}</version>
+                        </dependency>
+                    </dependencies>
+                </plugin>
+
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-failsafe-plugin</artifactId>
+                    <version>2.7.2</version>
+                    <configuration>
+                        <skip>${play.seleniumSkip}</skip>
+                        <forkMode>never</forkMode> <!-- no need to fork, two servers already forked: Play! and Selenium -->
+                        <includes>
+                            <include>**/*SeleniumTest.java</include>
+                        </includes>
+                        <runOrder>alphabetical</runOrder>
+                        <systemPropertyVariables>
+                            <selenium.browser>${selenium.browser}</selenium.browser>
+                            <selenium.url>${selenium.url}</selenium.url>
+                            <selenium.test.trace>${selenium.test.trace}</selenium.test.trace>
+                        </systemPropertyVariables>
+                    </configuration>
+                </plugin>
+
+                <plugin>
+                    <groupId>org.codehaus.mojo</groupId>
+                    <artifactId>selenium-maven-plugin</artifactId>
+                    <version>2.3</version>
+                    <configuration>
+                        <background>true</background>
+                        <browserSessionReuse>true</browserSessionReuse> <!--experimental-->
+                        <debug>true</debug>
+                        <defaultUserExtensionsEnabled>false</defaultUserExtensionsEnabled>
+                        <logOutput>true</logOutput>
+                        <skip>${play.seleniumSkip}</skip>
+                        <userExtensions>${project.build.directory}/play/home/modules/testrunner/public/test-runner/selenium/scripts/user-extensions.js</userExtensions>
+                    </configuration>
+                    <dependencies>
+                        <dependency>
+                            <groupId>org.seleniumhq.selenium</groupId>
+                            <artifactId>selenium-server</artifactId>
+                            <version>${selenium.server.version}</version>
+                        </dependency>
+
+                        <dependency>
+                            <groupId>org.seleniumhq.selenium</groupId>
+                            <artifactId>selenium-remote-driver</artifactId>
+                            <version>${selenium.server.version}</version>
+                        </dependency>
+
+                        <dependency>
+                            <groupId>org.seleniumhq.selenium</groupId>
+                            <artifactId>selenium-api</artifactId>
+                            <version>${selenium.server.version}</version>
+                        </dependency>
+                    </dependencies>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+</project>
