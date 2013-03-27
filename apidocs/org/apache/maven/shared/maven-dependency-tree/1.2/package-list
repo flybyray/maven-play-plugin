@@ -1,0 +1,3 @@
+org.apache.maven.shared.dependency.tree
+org.apache.maven.shared.dependency.tree.filter
+org.apache.maven.shared.dependency.tree.traversal
