@@ -1,5 +1,23 @@
 Release notes:
 
+* 1.0.0-beta5 (2013.03.27)
+
+1. Enhancements
+
+- Java 1.5 compatibility (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=113 Issue 113])
+
+- "compileApp" and "compileTest" plugin configuration parameters removed, source code is always compiled (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=118 Issue 118])
+
+- Surefire version used upgraded from 2.11 to 2.14, don't forget to change in your projects if not using play-app-default-parent, because Surefire provider API changed (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=119 Issue 119])
+
+[http://code.google.com/p/maven-play-plugin/issues/list?can=1&q=1.0.0-beta5 See all issues related to this version]
+
+2. Mavenized modules:
+
+a) new versions of previously mavenized modules:
+
+- Cobertura: 2.4-jdk15 - Java 1.5 compatible version of Cobertura 2.4 module
+
 * 1.0.0-beta4 (2013.01.21)
 
 1. Enhancements:
