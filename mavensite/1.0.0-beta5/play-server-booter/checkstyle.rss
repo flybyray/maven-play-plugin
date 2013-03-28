@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Play! Server Booter - Checkstyle report</title>
+    <link>http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta5/play-server-booter</link>
+    <description>Play! Server Booter - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2010 - 2013</copyright>
+    <item>
+      <title>File: 1,
+             Errors: 1,
+             Warnings: 1,
+             Infos: 0
+      </title>
+            <link>http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta5/play-server-booter/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta5/play-server-booter/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta5/play-server-booter/checkstyle.html#com.google.code.play.PlayServerBooter.java">com/google/code/play/PlayServerBooter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

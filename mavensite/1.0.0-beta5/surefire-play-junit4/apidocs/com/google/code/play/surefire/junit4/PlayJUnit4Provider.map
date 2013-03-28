@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="c60" href="./PlayScanResult.html" title="&lt;TABLE&gt;" alt="" coords="42,216,147,240"/>
+<area shape="rect" id="c63" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/maven/surefire/surefire-api/2.14/org/apache/maven/surefire/report/ConsoleLogger.html" title="&lt;TABLE&gt;" alt="" coords="15,312,174,363"/>
+<area shape="rect" id="c66" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/maven/surefire/surefire-api/2.14/org/apache/maven/surefire/util/TestsToRun.html" title="&lt;TABLE&gt;" alt="" coords="547,319,693,355"/>
+<area shape="rect" id="c61" href="./PlayJUnit4Provider.html" title="&lt;TABLE&gt;" alt="" coords="634,113,755,137"/>
+<area shape="rect" id="c64" href="http://junit.sourceforge.net/javadoc_40/org/junit/runner/notification/RunListener.html" title="&lt;TABLE&gt;" alt="" coords="191,210,321,246"/>
+<area shape="rect" id="c67" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/maven/surefire/surefire-api/2.14/org/apache/maven/surefire/providerapi/ProviderParameters.html" title="&lt;TABLE&gt;" alt="" coords="680,203,861,253"/>
+<area shape="rect" id="c68" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/maven/surefire/surefire-api/2.14/org/apache/maven/surefire/util/RunOrderCalculator.html" title="&lt;TABLE&gt;" alt="" coords="907,203,1053,253"/>
+<area shape="rect" id="c70" href="http://junit.sourceforge.net/javadoc_40/org/junit/runner/Result.html" title="&lt;TABLE&gt;" alt="" coords="1247,210,1329,246"/>
+<area shape="rect" id="c71" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/maven/surefire/surefire-api/2.14/org/apache/maven/surefire/report/RunListener.html" title="&lt;TABLE&gt;" alt="" coords="1373,203,1531,253"/>
+<area shape="rect" id="c72" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/maven/surefire/surefire-api/2.14/org/apache/maven/surefire/suite/RunResult.html" title="&lt;TABLE&gt;" alt="" coords="1576,210,1731,246"/>
+<area shape="rect" id="c73" href="http://junit.sourceforge.net/javadoc_40/org/junit/runner/notification/RunNotifier.html" title="&lt;TABLE&gt;" alt="" coords="1775,210,1905,246"/>
+<area shape="rect" id="c62" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/maven/surefire/surefire-api/2.14/org/apache/maven/surefire/providerapi/AbstractProvider.html" title="&lt;TABLE&gt;" alt="" coords="604,11,785,47"/>
+</map>
