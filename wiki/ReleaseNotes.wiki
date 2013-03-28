@@ -8,7 +8,7 @@ Release notes:
 
 - "compileApp" and "compileTest" plugin configuration parameters removed, source code is always compiled (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=118 Issue 118])
 
-- Surefire version used upgraded from 2.11 to 2.14, don't forget to change in your projects if not using play-app-default-parent, because Surefire provider API changed (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=119 Issue 119])
+- Surefire version used upgraded from 2.11 to 2.14, <font color="red">don't forget to change in your projects if not using play-app-default-parent, because Surefire provider API changed</font> (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=119 Issue 119])
 
 [http://code.google.com/p/maven-play-plugin/issues/list?can=1&q=1.0.0-beta5 See all issues related to this version]
 
