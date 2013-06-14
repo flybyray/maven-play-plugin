@@ -62,6 +62,8 @@
 
 [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/guice/play-guice/1.2/ Guice 1.2] - 2012.02.14
 
+[http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/hazelcast/play-hazelcast/0.6/ Hazelcast 0.6] - 2013.06.14
+
 [http://repo2.maven.org/maven2/com/google/code/maven-play-plugin/org/playframework/modules/japid/play-japid/ Japid]:
 
 [https://maven-play-plugin.googlecode.com/svn/mavenrepo/releases/com/google/code/maven-play-plugin/org/playframework/modules/japid/play-japid/0.9.3.4/ 0.9.3.4] - 2012.05.16
@@ -197,6 +199,8 @@
 [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/gae/ GAE]
 
 [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/guice/ Guice]
+
+[https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/hazelcast/ Hazelcast]
 
 [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/japid/ Japid]
 
