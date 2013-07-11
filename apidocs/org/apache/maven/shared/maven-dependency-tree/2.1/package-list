@@ -1,0 +1,7 @@
+org.apache.maven.shared.dependency.graph
+org.apache.maven.shared.dependency.graph.filter
+org.apache.maven.shared.dependency.graph.internal
+org.apache.maven.shared.dependency.graph.traversal
+org.apache.maven.shared.dependency.tree
+org.apache.maven.shared.dependency.tree.filter
+org.apache.maven.shared.dependency.tree.traversal
