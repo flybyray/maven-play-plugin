@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c1958" href="../StoredVars.html" title="&lt;TABLE&gt;" alt="" coords="15,114,166,150"/>
+<area shape="rect" id="c1966" href="./VoidSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="211,120,365,144"/>
+<area shape="rect" id="c1974" href="./StringSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="411,120,573,144"/>
+<area shape="rect" id="c1990" href="./BooleanSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="618,120,795,144"/>
+<area shape="rect" id="c1998" href="./AbstractSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="405,17,579,41"/>
+<area shape="rect" id="c2000" href="http://www.cloudtesting.com/selenium-docs/1.0.1/selenium-java-client-driver/com/thoughtworks/selenium/CommandProcessor.html" title="&lt;TABLE&gt;" alt="" coords="839,107,974,157"/>
+</map>

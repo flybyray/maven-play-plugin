@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="c62" href="./PlayScanResult.html" title="&lt;TABLE&gt;" alt="" coords="234,127,339,151"/>
+<area shape="rect" id="c68" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/maven/surefire/surefire-api/2.15/org/apache/maven/surefire/report/ConsoleLogger.html" title="&lt;TABLE&gt;" alt="" coords="207,216,366,267"/>
+<area shape="rect" id="c72" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/maven/surefire/surefire-api/2.15/org/apache/maven/surefire/util/TestsToRun.html" title="&lt;TABLE&gt;" alt="" coords="411,223,557,259"/>
+<area shape="rect" id="c79" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/maven/surefire/surefire-api/2.15/org/apache/maven/surefire/util/ScannerFilter.html" title="&lt;TABLE&gt;" alt="" coords="16,216,163,267"/>
+<area shape="rect" id="c63" href="./PlayJUnit4Provider.html" title="&lt;TABLE&gt;" alt="" coords="414,24,535,48"/>
+<area shape="rect" id="c65" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/maven/surefire/surefire-api/2.15/org/apache/maven/surefire/util/ScanResult.html" title="&lt;TABLE&gt;" alt="" coords="213,11,360,61"/>
+</map>

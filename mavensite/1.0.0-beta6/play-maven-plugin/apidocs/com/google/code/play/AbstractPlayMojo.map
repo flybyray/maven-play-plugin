@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="c1024" href="./PlayWarSupportMojo.html" title="&lt;TABLE&gt;" alt="" coords="16,209,149,233"/>
+<area shape="rect" id="c1035" href="./PlayInitializeMojo.html" title="&lt;TABLE&gt;" alt="" coords="195,209,307,233"/>
+<area shape="rect" id="c1057" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/Artifact.html" title="&lt;TABLE&gt;" alt="" coords="1067,299,1197,349"/>
+<area shape="rect" id="c1036" href="./PlayGenerateSeleniumJunit4SourcesMojo.html" title="&lt;TABLE&gt;" alt="" coords="352,209,603,233"/>
+<area shape="rect" id="c1040" href="./PlayCleanMojo.html" title="&lt;TABLE&gt;" alt="" coords="648,209,749,233"/>
+<area shape="rect" id="c1045" href="./AbstractPlayStopServerMojo.html" title="&lt;TABLE&gt;" alt="" coords="794,209,966,233"/>
+<area shape="rect" id="c1049" href="./AbstractPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="733,113,845,137"/>
+<area shape="rect" id="c1051" href="./AbstractDependencyProcessingPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="1010,209,1254,233"/>
+<area shape="rect" id="c1056" href="http://maven.apache.org/ref/2.2.1/maven-project/apidocs/org/apache/maven/project/MavenProject.html" title="&lt;TABLE&gt;" alt="" coords="1299,203,1427,239"/>
+<area shape="rect" id="c1055" href="http://maven.apache.org/ref/2.2.1/maven-plugin-api/apidocs/org/apache/maven/plugin/AbstractMojo.html" title="&lt;TABLE&gt;" alt="" coords="727,11,851,47"/>
+</map>

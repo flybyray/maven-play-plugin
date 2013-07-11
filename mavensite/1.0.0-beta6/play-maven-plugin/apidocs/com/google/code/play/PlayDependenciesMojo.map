@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="c705" href="./PlayDependenciesMojo.html" title="&lt;TABLE&gt;" alt="" coords="109,113,259,137"/>
+<area shape="rect" id="c721" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/codehaus/plexus/plexus-archiver/2.4.1/org/codehaus/plexus/archiver/manager/ArchiverManager.html" title="&lt;TABLE&gt;" alt="" coords="16,203,197,253"/>
+<area shape="rect" id="c724" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/Artifact.html" title="&lt;TABLE&gt;" alt="" coords="242,203,371,253"/>
+<area shape="rect" id="c717" href="./AbstractDependencyProcessingPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="123,17,367,41"/>
+</map>

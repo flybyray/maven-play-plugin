@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="c1131" href="./PlayZipMojo.html" title="&lt;TABLE&gt;" alt="" coords="195,216,280,240"/>
+<area shape="rect" id="c1164" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/codehaus/plexus/plexus-archiver/2.4.1/org/codehaus/plexus/archiver/zip/ZipArchiver.html" title="&lt;TABLE&gt;" alt="" coords="159,313,315,349"/>
+<area shape="rect" id="c1152" href="./AbstractPlayWarMojo.html" title="&lt;TABLE&gt;" alt="" coords="653,216,787,240"/>
+<area shape="rect" id="c1165" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/codehaus/plexus/plexus-archiver/2.4.1/org/codehaus/plexus/archiver/war/WarArchiver.html" title="&lt;TABLE&gt;" alt="" coords="583,313,742,349"/>
+<area shape="rect" id="c1158" href="./AbstractPlayDistMojo.html" title="&lt;TABLE&gt;" alt="" coords="16,216,149,240"/>
+<area shape="rect" id="c1159" href="./AbstractDependencyProcessingPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="345,17,589,41"/>
+<area shape="rect" id="c1160" href="./AbstractArchivingMojo.html" title="&lt;TABLE&gt;" alt="" coords="398,113,535,137"/>
+<area shape="rect" id="c1163" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/codehaus/plexus/plexus-archiver/2.4.1/org/codehaus/plexus/archiver/manager/ArchiverManager.html" title="&lt;TABLE&gt;" alt="" coords="376,203,557,253"/>
+<area shape="rect" id="c1166" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/codehaus/plexus/plexus-archiver/2.4.1/org/codehaus/plexus/archiver/Archiver.html" title="&lt;TABLE&gt;" alt="" coords="832,203,973,253"/>
+</map>
