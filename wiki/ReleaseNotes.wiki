@@ -1,5 +1,30 @@
 Release notes:
 
+* 1.0.0-beta6 (2013.07.11)
+
+1. Enhancements
+
+- war generation - default value of "warConfResourcesIncludes" property changed from "application.conf,messages,messages.`*`,routes" to "" (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=127 Issue 127]) <font color="red">Check if your projects' configurations relied on previous default value and need changes now</font>
+
+- war generation - custom "web.xml" files are filtered just like default ones are (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=123 Issue 123])
+
+- Maven Surefire Plugin version used upgraded from 2.14 to 2.15, <font color="red">don't forget to change in your projects if not using play-app-default-parent, because Surefire provider API changed</font> (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=125 Issue 125])
+
+- "startTimeout" and "stopTimeout" parameters added to Surefire provider for better control of Play! start and stop before and after unit tests (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=129 Issue 129])
+
+- additional improvements in Surefire provider (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=126 Issue 126] and [http://code.google.com/p/maven-play-plugin/issues/detail?id=128 Issue 128])
+
+- "org.sonatype.oss:oss-parent" set as parent-pom of "play-app-default-parent" and "play-module-default-parent" to allow Maven central deployment for all applications and modules using these default parents (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=130 Issue 130])
+
+2. Mavenized modules:
+
+a) new modules:
+
+- Hazelcast: 0.6 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/hazelcast/ test project]
+
+<font color="blue">[http://code.google.com/p/maven-play-plugin/issues/list?can=1&q=Milestone%3D1.0.0-beta6 All issues for 1.0.0-beta6].</font>
+
+
 * 1.0.0-beta5 (2013.03.27)
 
 1. Enhancements
@@ -17,6 +42,9 @@ Release notes:
 a) new versions of previously mavenized modules:
 
 - Cobertura: 2.4-jdk15 - Java 1.5 compatible version of Cobertura 2.4 module
+
+<font color="blue">[http://code.google.com/p/maven-play-plugin/issues/list?can=1&q=Milestone%3D1.0.0-beta5 All issues for 1.0.0-beta5].</font>
+
 
 * 1.0.0-beta4 (2013.01.21)
 
@@ -38,6 +66,9 @@ b) new versions of previously mavenized modules:
 
 - SecureSocial: 0.2.5, 0.2.6 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/securesocial/ test projects]
 
+<font color="blue">[http://code.google.com/p/maven-play-plugin/issues/list?can=1&q=Milestone%3D1.0.0-beta4 All issues for 1.0.0-beta4].</font>
+
+
 * 1.0.0-beta3 (2012.07.05)
 
 1. Enhancements:
@@ -55,6 +86,8 @@ b) new versions of previously mavenized modules:
 - Japid: 0.9.4.1 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/japid/ test projects]
 
 - Rythm: 1.0.0-RC8 - [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/external-modules/rythm/ test projects]
+
+<font color="blue">[http://code.google.com/p/maven-play-plugin/issues/list?can=1&q=Milestone%3D1.0.0-beta3 All issues for 1.0.0-beta3].</font>
 
 
 * 1.0.0-beta2 (2012.06.26)
@@ -131,6 +164,9 @@ BACKWARD INCOMPATIBLE CHANGES:
 
 - [http://code.google.com/p/maven-play-plugin/issues/detail?id=91 #91] - add module version to directory name when extracting provided-scoped modules
 
+<font color="blue">[http://code.google.com/p/maven-play-plugin/issues/list?can=1&q=Milestone%3D1.0.0-beta2 All issues for 1.0.0-beta2].</font>
+
+
 * 1.0.0-beta1 (2012.04.02)
 
 WAR support extended (see new mojos section below)
@@ -161,6 +197,9 @@ BACKWARD INCOMPATIBLE CHANGES:
 
 - [http://maven-play-plugin.googlecode.com/svn/mavensite/1.0.0-beta1/play-maven-plugin/war-mojo.html war] mojo's "warIncludes" and "warExcludes" configuration parameters renamed to "warApplicationIncludes" and "warApplicationExcludes"
 
+<font color="blue">[http://code.google.com/p/maven-play-plugin/issues/list?can=1&q=Milestone%3D1.0.0-beta1 All issues for 1.0.0-beta1].</font>
+
+
 * 1.0.0-alpha7 (2012.03.21)
 
 Maven3 + Surefire problems fixed
@@ -170,6 +209,9 @@ Play! server starting mojos ("run", "test", "start") improved (details here: htt
 "precompileTests" parameter for "precompile" mojo added
 
 Many Play! modules mavenized (complete list: http://code.google.com/p/maven-play-plugin/wiki/MavenizedModules), Scala among them (requires some code hacks implemented in plugin's 1.0.0-alpha7 version)
+
+<font color="blue">[http://code.google.com/p/maven-play-plugin/issues/list?can=1&q=Milestone%3D1.0.0-alpha7 All issues for 1.0.0-alpha7].</font>
+
 
 * 1.0.0-alpha6 (2012.01.23)
 
@@ -196,6 +238,9 @@ upgraded Play! Surefire provider's compatible Surefire version from 2.10 to 2.11
 upgraded Selenium Maven Plugin version in [https://maven-play-plugin.googlecode.com/svn/tags/play-default-parents-1.0.0-alpha6/play-module-default-parent/ default Play! module parent pom] from 2.0 to 2.1
 
 changed "user-extensions.js" file location for Selenium Maven Plugin from "${project.build.directory}/selenium/user-extensions.js" to "${project.build.directory}/play/home/modules/testrunner/public/test-runner/selenium/scripts/user-extensions.js"; this is important only for projects not using "play-app-default-parent" as their parent artifact
+
+<font color="blue">[http://code.google.com/p/maven-play-plugin/issues/list?can=1&q=Milestone%3D1.0.0-alpha6 All issues for 1.0.0-alpha6].</font>
+
 
 * 1.0.0-alpha5 (2011.12.06)
 
