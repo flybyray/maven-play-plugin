@@ -1,0 +1,9 @@
+org.apache.maven.plugin.surefire.runorder
+org.apache.maven.surefire
+org.apache.maven.surefire.booter
+org.apache.maven.surefire.providerapi
+org.apache.maven.surefire.report
+org.apache.maven.surefire.suite
+org.apache.maven.surefire.testset
+org.apache.maven.surefire.util
+org.apache.maven.surefire.util.internal
