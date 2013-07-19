@@ -31,7 +31,7 @@ Simplest project (pom.xml file) should look like:
 </project>
 }}}
 
-For Play! 1.3.0-SNAPSHOT version use different parent (for now available for 1.0.0-beta6-SNAPSHOT version only, so additional snapshot repository definitions must be added):
+For Play! 1.3.0-SNAPSHOT version use different parent (for now available for 1.0.0-beta7-SNAPSHOT version only, so additional snapshot repository definitions must be added):
 
 {{{
 <project xmlns="http://maven.apache.org/POM/4.0.0"
@@ -41,7 +41,7 @@ For Play! 1.3.0-SNAPSHOT version use different parent (for now available for 1.0
     <parent>
         <groupId>com.google.code.maven-play-plugin</groupId>
         <artifactId>play13-app-default-parent</artifactId>
-        <version>1.0.0-beta6-SNAPSHOT</version>
+        <version>1.0.0-beta7-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
