@@ -1,4 +1,11 @@
-go to app1
-run "mvn clean install"
-go to app2
-run "mvn clean package -Pautodeps"
+mvn dependency:tree
+
+FAILURE
+
+cd app1
+mvn install
+cd ..
+
+mvn dependency:tree
+
+SUCCESS
