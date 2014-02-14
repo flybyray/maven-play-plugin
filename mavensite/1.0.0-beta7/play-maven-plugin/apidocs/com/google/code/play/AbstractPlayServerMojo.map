@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="c1027" href="./PlayPrecompileMojo.html" title="&lt;TABLE&gt;" alt="" coords="432,216,562,240"/>
+<area shape="rect" id="c1040" href="./AbstractPlayStartServerMojo.html" title="&lt;TABLE&gt;" alt="" coords="39,216,211,240"/>
+<area shape="rect" id="c1050" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/ant/ant/1.9.3/org/apache/tools/ant/taskdefs/Java.html" title="&lt;TABLE&gt;" alt="" coords="53,313,197,349"/>
+<area shape="rect" id="c1041" href="./AbstractPlayServerMojo.html" title="&lt;TABLE&gt;" alt="" coords="594,113,741,137"/>
+<area shape="rect" id="c1042" href="./AbstractPlayRunMojo.html" title="&lt;TABLE&gt;" alt="" coords="658,216,792,240"/>
+<area shape="rect" id="c1049" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/Artifact.html" title="&lt;TABLE&gt;" alt="" coords="836,203,966,253"/>
+<area shape="rect" id="c1051" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/ant/ant/1.9.3/org/apache/tools/ant/Project.html" title="&lt;TABLE&gt;" alt="" coords="1010,210,1114,246"/>
+<area shape="rect" id="c1052" href="http://maven-play-plugin.googlecode.com/svn/apidocs/org/apache/ant/ant/1.9.3/org/apache/tools/ant/types/Path.html" title="&lt;TABLE&gt;" alt="" coords="256,210,386,246"/>
+<area shape="rect" id="c1047" href="./AbstractAntJavaBasedPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="806,17,996,41"/>
+</map>

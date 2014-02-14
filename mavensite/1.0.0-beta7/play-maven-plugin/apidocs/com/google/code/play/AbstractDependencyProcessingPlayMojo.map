@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="c1173" href="./PlayDependenciesMojo.html" title="&lt;TABLE&gt;" alt="" coords="16,216,165,240"/>
+<area shape="rect" id="c1196" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/Artifact.html" title="&lt;TABLE&gt;" alt="" coords="422,312,551,363"/>
+<area shape="rect" id="c1184" href="./AbstractPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="1632,17,1744,41"/>
+<area shape="rect" id="c1186" href="./AbstractDependencyProcessingPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="1123,113,1367,137"/>
+<area shape="rect" id="c1187" href="./AbstractArchivingMojo.html" title="&lt;TABLE&gt;" alt="" coords="210,216,347,240"/>
+<area shape="rect" id="c1188" href="./AbstractAntJavaBasedPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="392,216,581,240"/>
+<area shape="rect" id="c1190" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/repository/ArtifactRepository.html" title="&lt;TABLE&gt;" alt="" coords="626,203,801,253"/>
+<area shape="rect" id="c1191" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/factory/ArtifactFactory.html" title="&lt;TABLE&gt;" alt="" coords="845,203,1009,253"/>
+<area shape="rect" id="c1192" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/metadata/ArtifactMetadataSource.html" title="&lt;TABLE&gt;" alt="" coords="1053,203,1225,253"/>
+<area shape="rect" id="c1193" href="http://maven.apache.org/ref/2.2.1/maven-artifact/apidocs/org/apache/maven/artifact/resolver/ArtifactCollector.html" title="&lt;TABLE&gt;" alt="" coords="1269,203,1435,253"/>
+</map>

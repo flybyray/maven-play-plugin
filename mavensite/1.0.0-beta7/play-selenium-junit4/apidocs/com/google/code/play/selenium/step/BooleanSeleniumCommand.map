@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c1618" href="./WaitForTrueStep.html" title="&lt;TABLE&gt;" alt="" coords="15,17,126,41"/>
+<area shape="rect" id="c1646" href="./BooleanSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="438,113,615,137"/>
+<area shape="rect" id="c1620" href="./WaitForFalseStep.html" title="&lt;TABLE&gt;" alt="" coords="171,17,288,41"/>
+<area shape="rect" id="c1623" href="./VerifyTrueStep.html" title="&lt;TABLE&gt;" alt="" coords="333,17,430,41"/>
+<area shape="rect" id="c1626" href="./VerifyFalseStep.html" title="&lt;TABLE&gt;" alt="" coords="475,17,579,41"/>
+<area shape="rect" id="c1647" href="./AssertTrueStep.html" title="&lt;TABLE&gt;" alt="" coords="624,17,728,41"/>
+<area shape="rect" id="c1650" href="./AssertFalseStep.html" title="&lt;TABLE&gt;" alt="" coords="773,17,883,41"/>
+<area shape="rect" id="c1654" href="./AbstractSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="927,17,1102,41"/>
+</map>

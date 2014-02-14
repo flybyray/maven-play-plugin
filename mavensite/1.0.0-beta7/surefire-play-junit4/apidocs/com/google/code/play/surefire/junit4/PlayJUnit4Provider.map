@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="c88" href="./PlayScanResult.html" title="&lt;TABLE&gt;" alt="" coords="42,216,147,240"/>
+<area shape="rect" id="c92" href="https://svn.apache.org/repos/infra/websites/production/maven/content/surefire-archives/maven-surefire-2.16/surefire-api/apidocs/org/apache/maven/surefire/report/ConsoleLogger.html" title="&lt;TABLE&gt;" alt="" coords="15,312,174,363"/>
+<area shape="rect" id="c95" href="https://svn.apache.org/repos/infra/websites/production/maven/content/surefire-archives/maven-surefire-2.16/surefire-api/apidocs/org/apache/maven/surefire/util/TestsToRun.html" title="&lt;TABLE&gt;" alt="" coords="547,319,693,355"/>
+<area shape="rect" id="c89" href="./PlayJUnit4Provider.html" title="&lt;TABLE&gt;" alt="" coords="634,113,755,137"/>
+<area shape="rect" id="c93" href="http://junit.sourceforge.net/javadoc_40/org/junit/runner/notification/RunListener.html" title="&lt;TABLE&gt;" alt="" coords="191,210,321,246"/>
+<area shape="rect" id="c96" href="https://svn.apache.org/repos/infra/websites/production/maven/content/surefire-archives/maven-surefire-2.16/surefire-api/apidocs/org/apache/maven/surefire/providerapi/ProviderParameters.html" title="&lt;TABLE&gt;" alt="" coords="680,203,861,253"/>
+<area shape="rect" id="c97" href="https://svn.apache.org/repos/infra/websites/production/maven/content/surefire-archives/maven-surefire-2.16/surefire-api/apidocs/org/apache/maven/surefire/util/RunOrderCalculator.html" title="&lt;TABLE&gt;" alt="" coords="907,203,1053,253"/>
+<area shape="rect" id="c99" href="http://junit.sourceforge.net/javadoc_40/org/junit/runner/notification/RunNotifier.html" title="&lt;TABLE&gt;" alt="" coords="1247,210,1377,246"/>
+<area shape="rect" id="c100" href="https://svn.apache.org/repos/infra/websites/production/maven/content/surefire-archives/maven-surefire-2.16/surefire-api/apidocs/org/apache/maven/surefire/suite/RunResult.html" title="&lt;TABLE&gt;" alt="" coords="1421,210,1576,246"/>
+<area shape="rect" id="c101" href="https://svn.apache.org/repos/infra/websites/production/maven/content/surefire-archives/maven-surefire-2.16/surefire-api/apidocs/org/apache/maven/surefire/report/RunListener.html" title="&lt;TABLE&gt;" alt="" coords="1621,203,1779,253"/>
+<area shape="rect" id="c102" href="http://junit.sourceforge.net/javadoc_40/org/junit/runner/Result.html" title="&lt;TABLE&gt;" alt="" coords="1823,210,1905,246"/>
+<area shape="rect" id="c91" href="https://svn.apache.org/repos/infra/websites/production/maven/content/surefire-archives/maven-surefire-2.16/surefire-api/apidocs/org/apache/maven/surefire/providerapi/AbstractProvider.html" title="&lt;TABLE&gt;" alt="" coords="604,11,785,47"/>
+</map>
