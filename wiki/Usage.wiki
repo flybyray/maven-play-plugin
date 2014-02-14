@@ -8,7 +8,7 @@ Simplest project (pom.xml file) should look like:
     <parent>
         <groupId>com.google.code.maven-play-plugin</groupId>
         <artifactId>play-app-default-parent</artifactId>
-        <version>1.0.0-beta6</version>
+        <version>1.0.0-beta7</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
@@ -41,7 +41,7 @@ For Play! 1.3.0-SNAPSHOT version use different parent (for now available for 1.0
     <parent>
         <groupId>com.google.code.maven-play-plugin</groupId>
         <artifactId>play13-app-default-parent</artifactId>
-        <version>1.0.0-beta7-SNAPSHOT</version>
+        <version>1.0.0-beta8-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
@@ -102,7 +102,7 @@ If you use Play! modules not deployed to Maven cetral repository, add old reposi
     <parent>
         <groupId>com.google.code.maven-play-plugin</groupId>
         <artifactId>play-app-default-parent</artifactId>
-        <version>1.0.0-beta6</version>
+        <version>1.0.0-beta7</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
