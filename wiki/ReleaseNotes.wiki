@@ -1,5 +1,19 @@
 Release notes:
 
+* 1.0.0-beta7 (2014.02.14)
+
+1. Enhancements
+
+- <font color="red">multi-module build support</font> - this is most important feature in this release (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=137 Issue 137]). There are [https://maven-play-plugin.googlecode.com/svn/trunk/test-projects/multimodule Sample projects] showing different multi-module sample configurations. More documentation will be added soon.
+
+- <font color="red">M2Eclipse integration<font> - second most important featurev(see [http://code.google.com/p/maven-play-plugin/issues/detail?id=74 Issue 74]). Play! projects can be imported and developed in Eclipse now. This is easy, just import as "Existing Maven project". More documentation will be added soon. 
+
+- "application.conf" inclusions - (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=136 Issue 136])
+
+2. Change in default behaviour
+
+- selenium-maven-plugin's "browserSessionReuse" configuration parameter's default value changed from "true" to "false" - (see [http://code.google.com/p/maven-play-plugin/issues/detail?id=139 Issue 139])
+
 * 1.0.0-beta6 (2013.07.11)
 
 1. Enhancements
