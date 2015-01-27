@@ -6,6 +6,9 @@ This topis describes migration of existing project created for Play! Framework 1
 
 Instructions how to set up new project using Play! Framework 1.2.x are in [Usage] section.
 
+From the Maven point of view the main differences between Play1 1.2.x and 1.3.x are:
+  * *play-docviewer* module contains a jar file,
+  * module dependencies defined in *conf/application.conf* file are not supported anymore.
 
 = Details =
 
