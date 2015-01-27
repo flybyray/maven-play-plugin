@@ -1,8 +1,9 @@
-# Play! 1.2.x to 1.3.x Migration
+# Play! 1.2.x to 1.3.x migration
 
 = Introduction =
 
-This topis describes migration steps of working project created for Play! Framework 1.2.x (before Play! Framework 1.3.0 was released).
+This topis describes migration of existing project created for Play! Framework 1.2.x to Play! 1.3.x.
+
 Instructions how to set up new project using Play! Framework 1.2.x are in [Usage] section.
 
 
