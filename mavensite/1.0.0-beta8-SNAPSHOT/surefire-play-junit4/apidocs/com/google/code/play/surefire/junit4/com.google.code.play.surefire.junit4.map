@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="c0" href="./TestInvocation.html" title="com.google.code.play.surefire.junit4.TestInvocation" alt="" coords="15,17,113,41"/>
+<area shape="rect" id="node1" href="./TestInvocation.html" title="&lt;TABLE&gt;" alt="" coords="5,5,123,53"/>
+<area shape="rect" id="c1" href="./PlayStopRunnable.html" title="com.google.code.play.surefire.junit4.PlayStopRunnable" alt="" coords="33,113,154,137"/>
+<area shape="rect" id="node2" href="./PlayStopRunnable.html" title="&lt;TABLE&gt;" alt="" coords="23,101,164,149"/>
+<area shape="rect" id="c2" href="./PlayStartRunnable.html" title="com.google.code.play.surefire.junit4.PlayStartRunnable" alt="" coords="198,113,319,137"/>
+<area shape="rect" id="node3" href="./PlayStartRunnable.html" title="&lt;TABLE&gt;" alt="" coords="188,101,329,149"/>
+<area shape="rect" id="c3" href="./PlayScanResult.html" title="com.google.code.play.surefire.junit4.PlayScanResult" alt="" coords="406,113,511,137"/>
+<area shape="rect" id="node4" href="./PlayScanResult.html" title="&lt;TABLE&gt;" alt="" coords="396,101,521,149"/>
+<area shape="rect" id="c4" href="./PlayJUnit4Provider.html" title="com.google.code.play.surefire.junit4.PlayJUnit4Provider" alt="" coords="398,17,519,41"/>
+<area shape="rect" id="node5" href="./PlayJUnit4Provider.html" title="&lt;TABLE&gt;" alt="" coords="388,5,529,53"/>
+<area shape="rect" id="c5" href="./AbstractRunnable.html" title="com.google.code.play.surefire.junit4.AbstractRunnable" alt="" coords="157,17,275,41"/>
+<area shape="rect" id="node6" href="./AbstractRunnable.html" title="&lt;TABLE&gt;" alt="" coords="147,5,285,53"/>
+</map>

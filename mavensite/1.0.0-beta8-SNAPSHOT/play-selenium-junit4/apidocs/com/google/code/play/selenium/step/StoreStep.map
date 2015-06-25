@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c1400" href="../StoredVars.html" title="com.google.code.play.selenium.StoredVars" alt="" coords="15,203,166,239"/>
+<area shape="rect" id="node1" href="../StoredVars.html" title="&lt;TABLE&gt;" alt="" coords="5,197,176,245"/>
+<area shape="rect" id="c1416" href="./StringSeleniumCommand.html" title="com.google.code.play.selenium.step.StringSeleniumCommand" alt="" coords="211,209,373,233"/>
+<area shape="rect" id="node2" href="./StringSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="200,197,384,245"/>
+<area shape="rect" id="c1417" href="./StoreStep.html" title="com.google.code.play.selenium.step.StoreStep" alt="" coords="154,113,227,137"/>
+<area shape="rect" id="node3" href="./StoreStep.html" title="&lt;TABLE&gt;" alt="" coords="144,101,237,149"/>
+<area shape="rect" id="c1431" href="./CommandStep.html" title="com.google.code.play.selenium.step.CommandStep" alt="" coords="139,17,242,41"/>
+<area shape="rect" id="node4" href="./CommandStep.html" title="&lt;TABLE&gt;" alt="" coords="129,5,252,53"/>
+</map>

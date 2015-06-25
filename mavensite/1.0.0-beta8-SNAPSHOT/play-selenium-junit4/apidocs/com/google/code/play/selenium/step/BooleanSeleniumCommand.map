@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="c575" href="./WaitForTrueStep.html" title="com.google.code.play.selenium.step.WaitForTrueStep" alt="" coords="15,17,126,41"/>
+<area shape="rect" id="node1" href="./WaitForTrueStep.html" title="&lt;TABLE&gt;" alt="" coords="5,5,136,53"/>
+<area shape="rect" id="c603" href="./BooleanSeleniumCommand.html" title="com.google.code.play.selenium.step.BooleanSeleniumCommand" alt="" coords="438,113,615,137"/>
+<area shape="rect" id="node5" href="./BooleanSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="428,101,625,149"/>
+<area shape="rect" id="c577" href="./WaitForFalseStep.html" title="com.google.code.play.selenium.step.WaitForFalseStep" alt="" coords="171,17,288,41"/>
+<area shape="rect" id="node2" href="./WaitForFalseStep.html" title="&lt;TABLE&gt;" alt="" coords="160,5,299,53"/>
+<area shape="rect" id="c580" href="./VerifyTrueStep.html" title="com.google.code.play.selenium.step.VerifyTrueStep" alt="" coords="333,17,430,41"/>
+<area shape="rect" id="node3" href="./VerifyTrueStep.html" title="&lt;TABLE&gt;" alt="" coords="323,5,440,53"/>
+<area shape="rect" id="c583" href="./VerifyFalseStep.html" title="com.google.code.play.selenium.step.VerifyFalseStep" alt="" coords="475,17,579,41"/>
+<area shape="rect" id="node4" href="./VerifyFalseStep.html" title="&lt;TABLE&gt;" alt="" coords="464,5,589,53"/>
+<area shape="rect" id="c604" href="./AssertTrueStep.html" title="com.google.code.play.selenium.step.AssertTrueStep" alt="" coords="624,17,728,41"/>
+<area shape="rect" id="node6" href="./AssertTrueStep.html" title="&lt;TABLE&gt;" alt="" coords="613,5,739,53"/>
+<area shape="rect" id="c607" href="./AssertFalseStep.html" title="com.google.code.play.selenium.step.AssertFalseStep" alt="" coords="773,17,883,41"/>
+<area shape="rect" id="node7" href="./AssertFalseStep.html" title="&lt;TABLE&gt;" alt="" coords="763,5,893,53"/>
+<area shape="rect" id="c611" href="./AbstractSeleniumCommand.html" title="com.google.code.play.selenium.step.AbstractSeleniumCommand" alt="" coords="928,17,1104,41"/>
+<area shape="rect" id="node8" href="./AbstractSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="917,5,1115,53"/>
+</map>

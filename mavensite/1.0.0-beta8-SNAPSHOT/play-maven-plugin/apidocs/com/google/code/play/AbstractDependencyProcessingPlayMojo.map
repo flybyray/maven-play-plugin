@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="c278" href="./PlayDependenciesMojo.html" title="com.google.code.play.PlayDependenciesMojo" alt="" coords="16,216,165,240"/>
+<area shape="rect" id="node1" href="./PlayDependenciesMojo.html" title="&lt;TABLE&gt;" alt="" coords="5,204,176,252"/>
+<area shape="rect" id="node23" href="null" title="&lt;TABLE&gt;" alt="" coords="419,307,568,368"/>
+<area shape="rect" id="c288" href="./AbstractPlayMojo.html" title="com.google.code.play.AbstractPlayMojo" alt="" coords="1639,17,1753,41"/>
+<area shape="rect" id="node2" href="./AbstractPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="1629,5,1763,53"/>
+<area shape="rect" id="c290" href="./AbstractDependencyProcessingPlayMojo.html" title="com.google.code.play.AbstractDependencyProcessingPlayMojo" alt="" coords="1131,113,1376,137"/>
+<area shape="rect" id="node3" href="./AbstractDependencyProcessingPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="1120,101,1387,149"/>
+<area shape="rect" id="c291" href="./AbstractArchivingMojo.html" title="com.google.code.play.AbstractArchivingMojo" alt="" coords="211,216,352,240"/>
+<area shape="rect" id="node4" href="./AbstractArchivingMojo.html" title="&lt;TABLE&gt;" alt="" coords="200,204,363,252"/>
+<area shape="rect" id="c292" href="./AbstractAntJavaBasedPlayMojo.html" title="com.google.code.play.AbstractAntJavaBasedPlayMojo" alt="" coords="397,216,590,240"/>
+<area shape="rect" id="node5" href="./AbstractAntJavaBasedPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="387,204,600,252"/>
+<area shape="rect" id="node11" href="null" title="&lt;TABLE&gt;" alt="" coords="624,197,819,259"/>
+<area shape="rect" id="node13" href="null" title="&lt;TABLE&gt;" alt="" coords="843,197,1027,259"/>
+<area shape="rect" id="node15" href="null" title="&lt;TABLE&gt;" alt="" coords="1051,197,1243,259"/>
+<area shape="rect" id="node17" href="null" title="&lt;TABLE&gt;" alt="" coords="1267,197,1453,259"/>
+<area shape="rect" id="node19" href="null" title="&lt;TABLE&gt;" alt="" coords="1477,197,1699,259"/>
+<area shape="rect" id="node21" href="null" title="&lt;TABLE&gt;" alt="" coords="1723,204,1944,252"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="c217" href="./PlayZipMojo.html" title="com.google.code.play.PlayZipMojo" alt="" coords="195,216,280,240"/>
+<area shape="rect" id="node1" href="./PlayZipMojo.html" title="&lt;TABLE&gt;" alt="" coords="184,204,291,252"/>
+<area shape="rect" id="node13" href="null" title="&lt;TABLE&gt;" alt="" coords="149,307,325,355"/>
+<area shape="rect" id="c238" href="./AbstractPlayWarMojo.html" title="com.google.code.play.AbstractPlayWarMojo" alt="" coords="653,216,789,240"/>
+<area shape="rect" id="node2" href="./AbstractPlayWarMojo.html" title="&lt;TABLE&gt;" alt="" coords="643,204,800,252"/>
+<area shape="rect" id="node15" href="null" title="&lt;TABLE&gt;" alt="" coords="573,307,752,355"/>
+<area shape="rect" id="c244" href="./AbstractPlayDistMojo.html" title="com.google.code.play.AbstractPlayDistMojo" alt="" coords="15,216,150,240"/>
+<area shape="rect" id="node3" href="./AbstractPlayDistMojo.html" title="&lt;TABLE&gt;" alt="" coords="5,204,160,252"/>
+<area shape="rect" id="c245" href="./AbstractDependencyProcessingPlayMojo.html" title="com.google.code.play.AbstractDependencyProcessingPlayMojo" alt="" coords="344,17,589,41"/>
+<area shape="rect" id="node4" href="./AbstractDependencyProcessingPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="333,5,600,53"/>
+<area shape="rect" id="c246" href="./AbstractArchivingMojo.html" title="com.google.code.play.AbstractArchivingMojo" alt="" coords="396,113,537,137"/>
+<area shape="rect" id="node5" href="./AbstractArchivingMojo.html" title="&lt;TABLE&gt;" alt="" coords="385,101,548,149"/>
+<area shape="rect" id="node11" href="null" title="&lt;TABLE&gt;" alt="" coords="365,197,568,259"/>
+<area shape="rect" id="node20" href="null" title="&lt;TABLE&gt;" alt="" coords="824,197,987,259"/>
+</map>

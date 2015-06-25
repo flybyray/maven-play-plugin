@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="c1625" href="./VerifySelectedStep.html" title="com.google.code.play.selenium.step.VerifySelectedStep" alt="" coords="15,209,137,233"/>
+<area shape="rect" id="node1" href="./VerifySelectedStep.html" title="&lt;TABLE&gt;" alt="" coords="5,197,147,245"/>
+<area shape="rect" id="c1628" href="./VerifyEqualsStep.html" title="com.google.code.play.selenium.step.VerifyEqualsStep" alt="" coords="113,113,225,137"/>
+<area shape="rect" id="node2" href="./VerifyEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="103,101,236,149"/>
+<area shape="rect" id="c1631" href="./StringSeleniumCommand.html" title="com.google.code.play.selenium.step.StringSeleniumCommand" alt="" coords="181,209,344,233"/>
+<area shape="rect" id="node3" href="./StringSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="171,197,355,245"/>
+<area shape="rect" id="c1654" href="./AbstractSeleniumStep.html" title="com.google.code.play.selenium.step.AbstractSeleniumStep" alt="" coords="99,17,240,41"/>
+<area shape="rect" id="node4" href="./AbstractSeleniumStep.html" title="&lt;TABLE&gt;" alt="" coords="88,5,251,53"/>
+</map>

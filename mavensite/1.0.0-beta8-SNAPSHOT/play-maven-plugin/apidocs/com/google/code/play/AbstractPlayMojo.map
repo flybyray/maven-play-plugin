@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="c364" href="./PlayWarSupportMojo.html" title="com.google.code.play.PlayWarSupportMojo" alt="" coords="16,209,149,233"/>
+<area shape="rect" id="node1" href="./PlayWarSupportMojo.html" title="&lt;TABLE&gt;" alt="" coords="5,197,160,245"/>
+<area shape="rect" id="c375" href="./PlayInitializeMojo.html" title="com.google.code.play.PlayInitializeMojo" alt="" coords="195,209,307,233"/>
+<area shape="rect" id="node2" href="./PlayInitializeMojo.html" title="&lt;TABLE&gt;" alt="" coords="184,197,317,245"/>
+<area shape="rect" id="node19" href="null" title="&lt;TABLE&gt;" alt="" coords="1061,293,1211,355"/>
+<area shape="rect" id="c376" href="./PlayGenerateSeleniumJunit4SourcesMojo.html" title="com.google.code.play.PlayGenerateSeleniumJunit4SourcesMojo" alt="" coords="352,209,603,233"/>
+<area shape="rect" id="node3" href="./PlayGenerateSeleniumJunit4SourcesMojo.html" title="&lt;TABLE&gt;" alt="" coords="341,197,613,245"/>
+<area shape="rect" id="c380" href="./PlayCleanMojo.html" title="com.google.code.play.PlayCleanMojo" alt="" coords="648,209,749,233"/>
+<area shape="rect" id="node4" href="./PlayCleanMojo.html" title="&lt;TABLE&gt;" alt="" coords="637,197,760,245"/>
+<area shape="rect" id="c385" href="./AbstractPlayStopServerMojo.html" title="com.google.code.play.AbstractPlayStopServerMojo" alt="" coords="794,209,969,233"/>
+<area shape="rect" id="node5" href="./AbstractPlayStopServerMojo.html" title="&lt;TABLE&gt;" alt="" coords="784,197,979,245"/>
+<area shape="rect" id="c389" href="./AbstractPlayMojo.html" title="com.google.code.play.AbstractPlayMojo" alt="" coords="733,113,846,137"/>
+<area shape="rect" id="node6" href="./AbstractPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="723,101,856,149"/>
+<area shape="rect" id="c391" href="./AbstractDependencyProcessingPlayMojo.html" title="com.google.code.play.AbstractDependencyProcessingPlayMojo" alt="" coords="1013,209,1259,233"/>
+<area shape="rect" id="node7" href="./AbstractDependencyProcessingPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="1003,197,1269,245"/>
+<area shape="rect" id="node17" href="null" title="&lt;TABLE&gt;" alt="" coords="1293,197,1443,245"/>
+<area shape="rect" id="node13" href="null" title="&lt;TABLE&gt;" alt="" coords="717,5,861,53"/>
+</map>

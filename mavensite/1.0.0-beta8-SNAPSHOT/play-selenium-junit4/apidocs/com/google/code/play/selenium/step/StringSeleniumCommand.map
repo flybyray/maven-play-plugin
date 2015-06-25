@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="c1489" href="../PlaySeleniumTest.html" title="com.google.code.play.selenium.PlaySeleniumTest" alt="" coords="15,11,166,47"/>
+<area shape="rect" id="node1" href="../PlaySeleniumTest.html" title="&lt;TABLE&gt;" alt="" coords="5,5,176,53"/>
+<area shape="rect" id="c1502" href="./StringSeleniumCommand.html" title="com.google.code.play.selenium.step.StringSeleniumCommand" alt="" coords="721,113,884,137"/>
+<area shape="rect" id="node6" href="./StringSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="711,101,895,149"/>
+<area shape="rect" id="c1491" href="./WaitForNotEqualsStep.html" title="com.google.code.play.selenium.step.WaitForNotEqualsStep" alt="" coords="211,17,355,41"/>
+<area shape="rect" id="node2" href="./WaitForNotEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="200,5,365,53"/>
+<area shape="rect" id="c1493" href="./WaitForEqualsStep.html" title="com.google.code.play.selenium.step.WaitForEqualsStep" alt="" coords="400,17,525,41"/>
+<area shape="rect" id="node3" href="./WaitForEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="389,5,536,53"/>
+<area shape="rect" id="c1497" href="./VerifyNotEqualsStep.html" title="com.google.code.play.selenium.step.VerifyNotEqualsStep" alt="" coords="571,17,701,41"/>
+<area shape="rect" id="node4" href="./VerifyNotEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="560,5,712,53"/>
+<area shape="rect" id="c1499" href="./VerifyEqualsStep.html" title="com.google.code.play.selenium.step.VerifyEqualsStep" alt="" coords="747,17,859,41"/>
+<area shape="rect" id="node5" href="./VerifyEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="736,5,869,53"/>
+<area shape="rect" id="c1527" href="./AbstractPlayHttpGetCommand.html" title="com.google.code.play.selenium.step.AbstractPlayHttpGetCommand" alt="" coords="709,209,897,233"/>
+<area shape="rect" id="node11" href="./AbstractPlayHttpGetCommand.html" title="&lt;TABLE&gt;" alt="" coords="699,197,907,245"/>
+<area shape="rect" id="c1503" href="./StoreStep.html" title="com.google.code.play.selenium.step.StoreStep" alt="" coords="903,17,977,41"/>
+<area shape="rect" id="node7" href="./StoreStep.html" title="&lt;TABLE&gt;" alt="" coords="893,5,987,53"/>
+<area shape="rect" id="c1521" href="./AssertNotEqualsStep.html" title="com.google.code.play.selenium.step.AssertNotEqualsStep" alt="" coords="1021,17,1158,41"/>
+<area shape="rect" id="node8" href="./AssertNotEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="1011,5,1168,53"/>
+<area shape="rect" id="c1523" href="./AssertEqualsStep.html" title="com.google.code.play.selenium.step.AssertEqualsStep" alt="" coords="1203,17,1320,41"/>
+<area shape="rect" id="node9" href="./AssertEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="1192,5,1331,53"/>
+<area shape="rect" id="c1526" href="./AbstractSeleniumCommand.html" title="com.google.code.play.selenium.step.AbstractSeleniumCommand" alt="" coords="1365,17,1541,41"/>
+<area shape="rect" id="node10" href="./AbstractSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="1355,5,1552,53"/>
+</map>

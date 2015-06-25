@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="c443" href="./PlayPrecompileMojo.html" title="com.google.code.play.PlayPrecompileMojo" alt="" coords="434,216,565,240"/>
+<area shape="rect" id="node1" href="./PlayPrecompileMojo.html" title="&lt;TABLE&gt;" alt="" coords="424,204,576,252"/>
+<area shape="rect" id="c455" href="./AbstractPlayStartServerMojo.html" title="com.google.code.play.AbstractPlayStartServerMojo" alt="" coords="39,216,214,240"/>
+<area shape="rect" id="node2" href="./AbstractPlayStartServerMojo.html" title="&lt;TABLE&gt;" alt="" coords="29,204,224,252"/>
+<area shape="rect" id="node13" href="null" title="&lt;TABLE&gt;" alt="" coords="44,307,209,355"/>
+<area shape="rect" id="c456" href="./AbstractPlayServerMojo.html" title="com.google.code.play.AbstractPlayServerMojo" alt="" coords="596,113,745,137"/>
+<area shape="rect" id="node3" href="./AbstractPlayServerMojo.html" title="&lt;TABLE&gt;" alt="" coords="585,101,756,149"/>
+<area shape="rect" id="c457" href="./AbstractPlayRunMojo.html" title="com.google.code.play.AbstractPlayRunMojo" alt="" coords="660,216,798,240"/>
+<area shape="rect" id="node4" href="./AbstractPlayRunMojo.html" title="&lt;TABLE&gt;" alt="" coords="650,204,808,252"/>
+<area shape="rect" id="node11" href="null" title="&lt;TABLE&gt;" alt="" coords="832,197,981,259"/>
+<area shape="rect" id="node16" href="null" title="&lt;TABLE&gt;" alt="" coords="248,204,400,252"/>
+<area shape="rect" id="node19" href="null" title="&lt;TABLE&gt;" alt="" coords="1005,204,1130,252"/>
+<area shape="rect" id="c462" href="./AbstractAntJavaBasedPlayMojo.html" title="com.google.code.play.AbstractAntJavaBasedPlayMojo" alt="" coords="810,17,1003,41"/>
+<area shape="rect" id="node5" href="./AbstractAntJavaBasedPlayMojo.html" title="&lt;TABLE&gt;" alt="" coords="800,5,1013,53"/>
+</map>

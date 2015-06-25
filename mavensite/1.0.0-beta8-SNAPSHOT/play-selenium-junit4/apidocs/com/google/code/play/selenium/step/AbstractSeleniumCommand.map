@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="c224" href="../StoredVars.html" title="com.google.code.play.selenium.StoredVars" alt="" coords="15,114,166,150"/>
+<area shape="rect" id="node1" href="../StoredVars.html" title="&lt;TABLE&gt;" alt="" coords="5,108,176,156"/>
+<area shape="rect" id="c232" href="./VoidSeleniumCommand.html" title="com.google.code.play.selenium.step.VoidSeleniumCommand" alt="" coords="211,120,365,144"/>
+<area shape="rect" id="node2" href="./VoidSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="200,108,376,156"/>
+<area shape="rect" id="c240" href="./StringSeleniumCommand.html" title="com.google.code.play.selenium.step.StringSeleniumCommand" alt="" coords="411,120,573,144"/>
+<area shape="rect" id="node3" href="./StringSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="400,108,584,156"/>
+<area shape="rect" id="c256" href="./BooleanSeleniumCommand.html" title="com.google.code.play.selenium.step.BooleanSeleniumCommand" alt="" coords="618,120,795,144"/>
+<area shape="rect" id="node4" href="./BooleanSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="608,108,805,156"/>
+<area shape="rect" id="c264" href="./AbstractSeleniumCommand.html" title="com.google.code.play.selenium.step.AbstractSeleniumCommand" alt="" coords="404,17,580,41"/>
+<area shape="rect" id="node5" href="./AbstractSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="393,5,591,53"/>
+<area shape="rect" id="node11" href="null" title="&lt;TABLE&gt;" alt="" coords="829,101,984,163"/>
+</map>

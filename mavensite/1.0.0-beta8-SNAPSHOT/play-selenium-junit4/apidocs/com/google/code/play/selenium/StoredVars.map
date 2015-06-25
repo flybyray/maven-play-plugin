@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="c1443" href="./StoredVars.html" title="com.google.code.play.selenium.StoredVars" alt="" coords="1033,113,1113,137"/>
+<area shape="rect" id="node1" href="./StoredVars.html" title="&lt;TABLE&gt;" alt="" coords="1023,101,1124,149"/>
+<area shape="rect" id="c1460" href="./step/StoreStep.html" title="com.google.code.play.selenium.step.StoreStep" alt="" coords="15,11,187,47"/>
+<area shape="rect" id="node2" href="./step/StoreStep.html" title="&lt;TABLE&gt;" alt="" coords="5,5,197,53"/>
+<area shape="rect" id="c1461" href="./step/PlayVerifyTextLikeStep.html" title="com.google.code.play.selenium.step.PlayVerifyTextLikeStep" alt="" coords="231,11,403,47"/>
+<area shape="rect" id="node3" href="./step/PlayVerifyTextLikeStep.html" title="&lt;TABLE&gt;" alt="" coords="221,5,413,53"/>
+<area shape="rect" id="c1462" href="./step/PlayVerifyNotEqualsStep.html" title="com.google.code.play.selenium.step.PlayVerifyNotEqualsStep" alt="" coords="447,11,619,47"/>
+<area shape="rect" id="node4" href="./step/PlayVerifyNotEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="437,5,629,53"/>
+<area shape="rect" id="c1463" href="./step/PlayVerifyEqualsStep.html" title="com.google.code.play.selenium.step.PlayVerifyEqualsStep" alt="" coords="663,11,835,47"/>
+<area shape="rect" id="node5" href="./step/PlayVerifyEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="653,5,845,53"/>
+<area shape="rect" id="c1466" href="./step/PlayAssertTextLikeStep.html" title="com.google.code.play.selenium.step.PlayAssertTextLikeStep" alt="" coords="879,11,1051,47"/>
+<area shape="rect" id="node6" href="./step/PlayAssertTextLikeStep.html" title="&lt;TABLE&gt;" alt="" coords="869,5,1061,53"/>
+<area shape="rect" id="c1467" href="./step/PlayAssertNotEqualsStep.html" title="com.google.code.play.selenium.step.PlayAssertNotEqualsStep" alt="" coords="1095,11,1267,47"/>
+<area shape="rect" id="node7" href="./step/PlayAssertNotEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="1085,5,1277,53"/>
+<area shape="rect" id="c1468" href="./step/PlayAssertEqualsStep.html" title="com.google.code.play.selenium.step.PlayAssertEqualsStep" alt="" coords="1311,11,1483,47"/>
+<area shape="rect" id="node8" href="./step/PlayAssertEqualsStep.html" title="&lt;TABLE&gt;" alt="" coords="1301,5,1493,53"/>
+<area shape="rect" id="c1469" href="./step/PauseStep.html" title="com.google.code.play.selenium.step.PauseStep" alt="" coords="1527,11,1699,47"/>
+<area shape="rect" id="node9" href="./step/PauseStep.html" title="&lt;TABLE&gt;" alt="" coords="1517,5,1709,53"/>
+<area shape="rect" id="c1472" href="./step/EchoStep.html" title="com.google.code.play.selenium.step.EchoStep" alt="" coords="1743,11,1915,47"/>
+<area shape="rect" id="node10" href="./step/EchoStep.html" title="&lt;TABLE&gt;" alt="" coords="1733,5,1925,53"/>
+<area shape="rect" id="c1483" href="./step/AbstractSeleniumCommand.html" title="com.google.code.play.selenium.step.AbstractSeleniumCommand" alt="" coords="1960,11,2136,47"/>
+<area shape="rect" id="node11" href="./step/AbstractSeleniumCommand.html" title="&lt;TABLE&gt;" alt="" coords="1949,5,2147,53"/>
+</map>
